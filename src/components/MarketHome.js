@@ -1,8 +1,9 @@
 import React from 'react'
 import { Container, LeftDiv, LeftBottomDiv, TopRightDiv, Logo, ExtraBoldFont, InputDiv, Input, Search, Cover } from './StyledComponents'
-// import Grid from './Grid'
+import Grid from './Grid';
 import CategoryBar from './CategoryBar'
-// import SelectedItem from './SelectedItem'
+import Landing from '../images/landing.svg';
+import SelectedItem from './SelectedItem';
 import { LandingArea } from './Header'
 import Header from './Header'
 
@@ -21,7 +22,7 @@ function MarketHome() {
             </LeftDiv>
             <Cover className='cover' />
             <LeftBottomDiv className='left-bottom'>
-                {/* <SelectedItem /> */}
+                <SelectedItem />
             </LeftBottomDiv>
             <CategoryBar />
             <TopRightDiv className='top-right'>
@@ -30,11 +31,11 @@ function MarketHome() {
                     <ExtraBoldFont className="landing-area-text">
                         Discover amazing fresh supplies and bring the store to your door.
                     </ExtraBoldFont>
-                    <img src={require('../images/landing.svg')} alt="landing" className="landing-area-image" />
+                    <img src={Landing} alt="landing" className="landing-area-image" />
                 </LandingArea>
             </TopRightDiv>
 
-            {/* <Grid /> */}
+            <Grid />
 
         </Container>
     )

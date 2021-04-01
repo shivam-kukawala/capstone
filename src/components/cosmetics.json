@@ -1,0 +1,2928 @@
+{
+    "brands": [
+        {
+            "id": "\"Motives&reg; Cosmetics\"",
+            "name": "Motives&reg; Cosmetics",
+            "productCount": 143
+        },
+        {
+            "id": "\"Lumi\u00e8re de Vie&reg;\"",
+            "name": "Lumi\u00e8re de Vie&reg;",
+            "productCount": 33
+        },
+        {
+            "id": "\"Royal Spa&reg;\"",
+            "name": "Royal Spa&reg;",
+            "productCount": 12
+        },
+        {
+            "id": "Skintelligence&reg;",
+            "name": "Skintelligence&reg;",
+            "productCount": 10
+        },
+        {
+            "id": "\"Cellular Laboratories&reg;\"",
+            "name": "Cellular Laboratories&reg;",
+            "productCount": 9
+        },
+        {
+            "id": "Fixx&trade;",
+            "name": "Fixx&trade;",
+            "productCount": 10
+        },
+        {
+            "id": "\"Timeless Prescription&reg;\"",
+            "name": "Timeless Prescription&reg;",
+            "productCount": 7
+        },
+        {
+            "id": "Pentaxyl&reg;",
+            "name": "Pentaxyl&reg;",
+            "productCount": 1
+        },
+        {
+            "id": "\"Lumi\u00e8re de Vie&reg; Hommes\"",
+            "name": "Lumi\u00e8re de Vie&reg; Hommes",
+            "productCount": 10
+        },
+        {
+            "id": "VitaShield&reg;",
+            "name": "VitaShield&reg;",
+            "productCount": 5
+        },
+        {
+            "id": "\"Ultimate Aloe&trade;\"",
+            "name": "Ultimate Aloe&trade;",
+            "productCount": 1
+        },
+        {
+            "id": "\"Clear Shield&reg;\"",
+            "name": "Clear Shield&reg;",
+            "productCount": 1
+        },
+        {
+            "id": "Braun",
+            "name": "Braun",
+            "productCount": 1270
+        },
+        {
+            "id": "Redken",
+            "name": "Redken",
+            "productCount": 601
+        },
+        {
+            "id": "\"Calvin Klein\"",
+            "name": "Calvin Klein",
+            "productCount": 554
+        },
+        {
+            "id": "Demeter",
+            "name": "Demeter",
+            "productCount": 591
+        },
+        {
+            "id": "Guerlain",
+            "name": "Guerlain",
+            "productCount": 588
+        },
+        {
+            "id": "Dior",
+            "name": "Dior",
+            "productCount": 483
+        },
+        {
+            "id": "\"Elizabeth Arden\"",
+            "name": "Elizabeth Arden",
+            "productCount": 429
+        },
+        {
+            "id": "Lanc\u00f4me",
+            "name": "Lanc\u00f4me",
+            "productCount": 456
+        }
+    ],
+    "categories": [
+        {
+            "id": "2-4012788",
+            "name": "Skin Care",
+            "productCount": 4613
+        },
+        {
+            "id": "2-1217205",
+            "name": "Perfume & Cologne",
+            "productCount": 24872
+        },
+        {
+            "id": "2-1217119",
+            "name": "Hair Care Products",
+            "productCount": 6756
+        },
+        {
+            "id": "2-1217074",
+            "name": "Eye Makeup",
+            "productCount": 1346
+        },
+        {
+            "id": "2-1217131",
+            "name": "Face Makeup",
+            "productCount": 1709
+        },
+        {
+            "id": "2-1217143",
+            "name": "Lip Products",
+            "productCount": 3110
+        },
+        {
+            "id": "2-4012787",
+            "name": "Bath & Shower",
+            "productCount": 3546
+        },
+        {
+            "id": "2-1217196",
+            "name": "Beauty Gift Sets",
+            "productCount": 1446
+        },
+        {
+            "id": "2-1217242",
+            "name": "Sun Protection & Tanning",
+            "productCount": 604
+        },
+        {
+            "id": "2-1217156",
+            "name": "Cosmetic Accessories",
+            "productCount": 1323
+        },
+        {
+            "id": "2-1217219",
+            "name": "Shaving & Hair Removal Tools",
+            "productCount": 2046
+        },
+        {
+            "id": "2-1217066",
+            "name": "Hair Care Accessories",
+            "productCount": 2175
+        },
+        {
+            "id": "2-1217230",
+            "name": "Nail Care Products",
+            "productCount": 1428
+        },
+        {
+            "id": "2-1217110",
+            "name": "Hair Styling Tools",
+            "productCount": 1127
+        },
+        {
+            "id": "2-1217088",
+            "name": "Shaving & Hair Removal Products",
+            "productCount": 562
+        },
+        {
+            "id": "2-1217097",
+            "name": "Nail Care Tools",
+            "productCount": 575
+        },
+        {
+            "id": "2-1217046",
+            "name": "Body Makeup & Decorations",
+            "productCount": 435
+        }
+    ],
+    "numberOfProducts": 57634,
+    "priceRanges": [
+        {
+            "id": "[0.01 TO 20.0]",
+            "maximumPrice": 20.0,
+            "maximumPriceString": "$20.00",
+            "minimumPrice": 0.01,
+            "minimumPriceString": "$0.01",
+            "productCount": 16152
+        },
+        {
+            "id": "[20.01 TO 30.0]",
+            "maximumPrice": 30.0,
+            "maximumPriceString": "$30.00",
+            "minimumPrice": 20.01,
+            "minimumPriceString": "$20.01",
+            "productCount": 13745
+        },
+        {
+            "id": "[30.01 TO 45.0]",
+            "maximumPrice": 45.0,
+            "maximumPriceString": "$45.00",
+            "minimumPrice": 30.01,
+            "minimumPriceString": "$30.01",
+            "productCount": 15066
+        },
+        {
+            "id": "[45.01 TO 80.0]",
+            "maximumPrice": 80.0,
+            "maximumPriceString": "$80.00",
+            "minimumPrice": 45.01,
+            "minimumPriceString": "$45.01",
+            "productCount": 12908
+        },
+        {
+            "id": "[80.01 TO 5600.0]",
+            "maximumPrice": 5600.0,
+            "maximumPriceString": "$5,600.00",
+            "minimumPrice": 80.01,
+            "minimumPriceString": "$80.01",
+            "productCount": 10601
+        }
+    ],
+    "products": [
+        {
+            "brand": "Royal Spa&reg;",
+            "id": 600489360,
+            "image": {
+                "caption": "Royal Spa&reg; Imperial Blend Bath & Shower Gel",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053504__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053504__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053504__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600489360?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/royal-spa-imperial-blend-bath-and-shower-gel-559053504-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 7.5,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.95,
+            "maximumPriceString": "$18.95",
+            "minimumPrice": 18.95,
+            "minimumPriceString": "$18.95",
+            "name": "Royal Spa&reg; Imperial Blend Bath & Shower Gel",
+            "referralUrl": "https://www.shop.com/royal-spa-imperial-blend-bath-and-shower-gel-559053504-p.xhtml?publisherID=TEST",
+            "shortDescription": "Royal Spa Imperial Blend Bath & Shower Gel is an ultra-regal body treatment that cleanses and moisturizes without the drying effects of soap. Royal Spa Imperial Blend Bath & Shower Gel is enhanced with golden beads of vitamins A and E to help..."
+        },
+        {
+            "brand": "Pentaxyl&reg;",
+            "id": 616255770,
+            "image": {
+                "caption": "Pentaxyl&reg;",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243384/products/575527518__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243384/products/575527518__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243384/products/575527518__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/616255770?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/pentaxyl/?id=2073&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/pentaxyl-575527518-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 49.0,
+            "maximumCashback": 1.6,
+            "maximumCashbackString": "$1.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 79.95,
+            "maximumPriceString": "$79.95",
+            "minimumPrice": 79.95,
+            "minimumPriceString": "$79.95",
+            "name": "Pentaxyl&reg;",
+            "referralUrl": "https://www.shop.com/pentaxyl-575527518-p.xhtml?publisherID=TEST",
+            "shortDescription": "Youthful-looking skin should last a lifetime. External factors like pollution and internal factors like oxidative damage and poor diet often stress the skin. This can leave the skin looking dry, dull and aged. As part of the natural aging process, the..."
+        },
+        {
+            "brand": "Fixx&trade;",
+            "id": 603139972,
+            "image": {
+                "caption": "Fixx&trade; Thick Hair Shampoo & Conditioner",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800380__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800380__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800380__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/603139972?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/fixx-thick-hair-shampoo-and-conditioner-561800380-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 10.0,
+            "maximumCashback": 0.4,
+            "maximumCashbackString": "$0.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 19.95,
+            "maximumPriceString": "$19.95",
+            "minimumPrice": 19.95,
+            "minimumPriceString": "$19.95",
+            "name": "Fixx&trade; Thick Hair Shampoo & Conditioner",
+            "referralUrl": "https://www.shop.com/fixx-thick-hair-shampoo-and-conditioner-561800380-p.xhtml?publisherID=TEST",
+            "shortDescription": "Turn to Fixx Thick Hair Shampoo & Conditioner for a more gentle solution to get softer, fuller-looking hair. Enhanced with natural ingredients, such as Stinging Nettle Extract and Tea Tree leaf oil, which combat pollutants while promoting luster..."
+        },
+        {
+            "brand": "Ultimate Aloe&trade;",
+            "id": 600538465,
+            "image": {
+                "caption": "Ultimate Aloe&reg; Gel",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243396/products/559090759__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243396/products/559090759__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243396/products/559090759__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600538465?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/ultimate-aloe-gel-559090759-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 9.5,
+            "maximumCashback": 0.4,
+            "maximumCashbackString": "$0.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 19.95,
+            "maximumPriceString": "$19.95",
+            "minimumPrice": 19.95,
+            "minimumPriceString": "$19.95",
+            "name": "Ultimate Aloe&reg; Gel",
+            "referralUrl": "https://www.shop.com/ultimate-aloe-gel-559090759-p.xhtml?publisherID=TEST",
+            "shortDescription": "Ultimate Aloe Gel is a rejuvenating formula made using a unique whole leaf process. With over 200 nutrients which are rich in enzymes, amino acids, vitamins and minerals, Ultimate Aloe Gel works to soothe irritated skin caused by dry skin, sunburn,..."
+        },
+        {
+            "brand": "Skintelligence&reg;",
+            "id": 600492580,
+            "image": {
+                "caption": "Skintelligence&reg; pH Skin Normalizer",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053511__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053511__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053511__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600492580?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/skintelligence-ph-skin-normalizer/?id=2208&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/skintelligence-ph-skin-normalizer-559053511-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 7.25,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.95,
+            "maximumPriceString": "$18.95",
+            "minimumPrice": 18.95,
+            "minimumPriceString": "$18.95",
+            "name": "Skintelligence&reg; pH Skin Normalizer",
+            "referralUrl": "https://www.shop.com/skintelligence-ph-skin-normalizer-559053511-p.xhtml?publisherID=TEST",
+            "shortDescription": "Proper pH balance is essential for your skin to perform its primary function as a barrier. Under normal conditions, the surface of human skin is acidic with a pH ~5. This low pH value is maintained in several different ways, including through the..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1742698810,
+            "image": {
+                "caption": "Motives&reg; Makeup Remover Towelettes",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1772903365__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1772903365__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1772903365__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1742698810?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-makeup-remover-towelettes/?id=5818641&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-makeup-remover-towelettes-1772903365-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 3.0,
+            "maximumCashback": 0.17,
+            "maximumCashbackString": "$0.17",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 8.5,
+            "maximumPriceString": "$8.50",
+            "minimumPrice": 8.5,
+            "minimumPriceString": "$8.50",
+            "name": "Motives&reg; Makeup Remover Towelettes",
+            "referralUrl": "https://www.shop.com/motives-makeup-remover-towelettes-1772903365-p.xhtml?publisherID=TEST",
+            "shortDescription": "Motives Makeup Remover Towelettes gently remove makeup, dirt, and oil in one easy step. This unique formula effectively removes surface impurities to leave you feeling fresh without any sticky residue left behind, so there is no need to rinse. Wipe..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 893827110,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Intensive Hand & Body Cr&egrave;me",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/894127078__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/894127078__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/894127078__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/893827110?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-intensive-hand-and-body-creme/?id=4993609&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-intensive-hand-and-body-creme-894127078-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 16.0,
+            "maximumCashback": 0.64,
+            "maximumCashbackString": "$0.64",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 31.95,
+            "maximumPriceString": "$31.95",
+            "minimumPrice": 31.95,
+            "minimumPriceString": "$31.95",
+            "name": "Lumi&egrave;re de Vie&reg; Intensive Hand & Body Cr&egrave;me",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-intensive-hand-and-body-creme-894127078-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re de Vie Intensive Hand & Body Cr&egrave;me is an intensive rich cr&egrave;me that saturates skin for long-lasting hydration. With nutrient-rich ingredients like shea butter, coconut oil and sunflower seed oil, this powerful..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 1835209091,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Renewal Gel\u00e9e (Astaxanthin Treatment)",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1865413643__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1865413643__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1865413643__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1835209091?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-renewal-gele-astaxanthin-treatment/?id=5820426&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-renewal-gele-astaxanthin-treatment-1865413643-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 35.0,
+            "maximumCashback": 1.3,
+            "maximumCashbackString": "$1.30",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 65.0,
+            "maximumPriceString": "$65.00",
+            "minimumPrice": 65.0,
+            "minimumPriceString": "$65.00",
+            "name": "Lumi&egrave;re de Vie&reg; Renewal Gel\u00e9e (Astaxanthin Treatment)",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-renewal-gele-astaxanthin-treatment-1865413643-p.xhtml?publisherID=TEST",
+            "shortDescription": "The secret solution to renewed radiance, Lumi&egrave;re de Vie&reg; Renewal Gel\u00e9e is the ultimate astaxanthin treatment, powered by advanced science and research. AstaReal&reg;* (astaxanthin) works synergistically with a unique blend of lipids and..."
+        },
+        {
+            "brand": "Royal Spa&reg;",
+            "id": 600489305,
+            "image": {
+                "caption": "Royal Spa&reg; Tri-Protein Plus Deep Conditioner",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053496__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053496__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053496__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600489305?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/royal-spa-tri-protein-plus-deep-conditioner-559053496-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 7.0,
+            "maximumCashback": 0.4,
+            "maximumCashbackString": "$0.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 19.95,
+            "maximumPriceString": "$19.95",
+            "minimumPrice": 19.95,
+            "minimumPriceString": "$19.95",
+            "name": "Royal Spa&reg; Tri-Protein Plus Deep Conditioner",
+            "referralUrl": "https://www.shop.com/royal-spa-tri-protein-plus-deep-conditioner-559053496-p.xhtml?publisherID=TEST",
+            "shortDescription": "Royal Spa Tri-Protein Plus Deep Conditioner is a deep penetrating conditioner perfect for dry, damaged or chemically-treated hair. Royal Spa Tri-Protein Plus Deep Conditioner is enriched with 19 amino acids, 14 essential vitamins, botanical extracts,..."
+        },
+        {
+            "brand": "Skintelligence&reg;",
+            "id": 600492576,
+            "image": {
+                "caption": "Skintelligence&reg; Hydra Derm Deep Cleansing Emulsion",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053510__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053510__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053510__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600492576?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/skintelligence-hydra-derm-deep-cleansing-emulsion/?id=2207&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/skintelligence-hydra-derm-deep-cleansing-emulsion-559053510-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 7.25,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.95,
+            "maximumPriceString": "$18.95",
+            "minimumPrice": 18.95,
+            "minimumPriceString": "$18.95",
+            "name": "Skintelligence&reg; Hydra Derm Deep Cleansing Emulsion",
+            "referralUrl": "https://www.shop.com/skintelligence-hydra-derm-deep-cleansing-emulsion-559053510-p.xhtml?publisherID=TEST",
+            "shortDescription": "Skintelligence Hydra Derm Deep Cleansing Emulsion is a water-activated, deep cleansing emulsion that penetrates beneath the skin\u2019s surface to loosen and dissolve dirt, makeup and oil. Formulated with gentle, natural ingredients like aloe vera,..."
+        },
+        {
+            "brand": "Royal Spa&reg;",
+            "id": 600489328,
+            "image": {
+                "caption": "Royal Spa&reg; Chamomile Shampoo",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053497__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053497__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053497__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600489328?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/royal-spa-chamomile-shampoo-559053497-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 8.0,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.95,
+            "maximumPriceString": "$18.95",
+            "minimumPrice": 18.95,
+            "minimumPriceString": "$18.95",
+            "name": "Royal Spa&reg; Chamomile Shampoo",
+            "referralUrl": "https://www.shop.com/royal-spa-chamomile-shampoo-559053497-p.xhtml?publisherID=TEST",
+            "shortDescription": "Enrich your hair with the botanical extracts of chamomile, aloe vera, cherry bark and more in this rich formula that gently cleanses away buildup. Unlike other shampoos, this formula is effective without stripping the hair of elements that help..."
+        },
+        {
+            "brand": "Royal Spa&reg;",
+            "id": 600489331,
+            "image": {
+                "caption": "Royal Spa&reg; Ultra III Shampoo (for Chemically Treated Hair)",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053498__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053498__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053498__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600489331?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/royal-spa-ultra-iii-shampoo-for-chemically-treated-hair-559053498-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 8.0,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.95,
+            "maximumPriceString": "$18.95",
+            "minimumPrice": 18.95,
+            "minimumPriceString": "$18.95",
+            "name": "Royal Spa&reg; Ultra III Shampoo (for Chemically Treated Hair)",
+            "referralUrl": "https://www.shop.com/royal-spa-ultra-iii-shampoo-for-chemically-treated-hair-559053498-p.xhtml?publisherID=TEST",
+            "shortDescription": "Renew your hair easily after the constant stress of chemical treatment and pollution with Royal Spa Ultra III Shampoo for Chemically-Treated Hair. Cleanse, condition and detangle your color-treated hair in one easy step with this ultra-rich formula,..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 580801129,
+            "image": {
+                "caption": "Motives&reg; Liquid Powder Mineral Foundation with SPF 15",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366005__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366005__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366005__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/580801129?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-liquid-powder-mineral-foundation-with-spf-15/?id=25378&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-liquid-powder-mineral-foundation-with-spf-15-536366005-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 15.0,
+            "maximumCashback": 0.6,
+            "maximumCashbackString": "$0.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 29.95,
+            "maximumPriceString": "$29.95",
+            "minimumPrice": 29.95,
+            "minimumPriceString": "$29.95",
+            "name": "Motives&reg; Liquid Powder Mineral Foundation with SPF 15",
+            "referralUrl": "https://www.shop.com/motives-liquid-powder-mineral-foundation-with-spf-15-536366005-p.xhtml?publisherID=TEST",
+            "shortDescription": "A 3-in-1 foundation that provides the superior, buildable coverage of a cr&egrave;me foundation while offering SPF and primer, with the natural-looking, sheer finish of a powder foundation. This foundation hides discolorations and covers skin with a..."
+        },
+        {
+            "brand": "Cellular Laboratories&reg;",
+            "id": 612401596,
+            "image": {
+                "caption": "Cellular Laboratories&reg; De-Aging Sunscreen Broad Spectrum SPF 50+",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/571253480__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/571253480__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/571253480__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/612401596?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/cellular-laboratories-de-aging-sunscreen-broad-spectrum-spf-50-/?id=13347&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/cellular-laboratories-de-aging-sunscreen-broad-spectrum-spf-50--571253480-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 24.0,
+            "maximumCashback": 0.9,
+            "maximumCashbackString": "$0.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 44.95,
+            "maximumPriceString": "$44.95",
+            "minimumPrice": 44.95,
+            "minimumPriceString": "$44.95",
+            "name": "Cellular Laboratories&reg; De-Aging Sunscreen Broad Spectrum SPF 50+",
+            "referralUrl": "https://www.shop.com/cellular-laboratories-de-aging-sunscreen-broad-spectrum-spf-50--571253480-p.xhtml?publisherID=TEST",
+            "shortDescription": "Over time, sun exposure can result in premature aging, causing fine lines and wrinkles and reddening of the skin, and without preventative action, our skin can begin to look like leather. A quality, anti-aging sunscreen is the key to fighting the..."
+        },
+        {
+            "brand": "Timeless Prescription&reg;",
+            "id": 615853787,
+            "image": {
+                "caption": "Timeless Prescription&reg; Facial Exfoliating Cleanser with Enzymes",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243392/products/575092144__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243392/products/575092144__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243392/products/575092144__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/615853787?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/timeless-prescription-facial-exfoliating-cleanser-with-enzymes/?id=2078&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/timeless-prescription-facial-exfoliating-cleanser-with-enzymes-575092144-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 21.0,
+            "maximumCashback": 0.87,
+            "maximumCashbackString": "$0.87",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 43.5,
+            "maximumPriceString": "$43.50",
+            "minimumPrice": 43.5,
+            "minimumPriceString": "$43.50",
+            "name": "Timeless Prescription&reg; Facial Exfoliating Cleanser with Enzymes",
+            "referralUrl": "https://www.shop.com/timeless-prescription-facial-exfoliating-cleanser-with-enzymes-575092144-p.xhtml?publisherID=TEST",
+            "shortDescription": "Timeless Prescription Facial Exfoliating Cleanser with Enzymes and MDI Complex is a soap-free, fragrance-free and pH balanced product that provides all the desired components of an ideal cleanser. Based on a mild surfactant, enzyme-based mixture, it..."
+        },
+        {
+            "brand": "Cellular Laboratories&reg;",
+            "id": 620651300,
+            "image": {
+                "caption": "Cellular Laboratories&reg; De-Aging Toner",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/580044026__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/580044026__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/580044026__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/620651300?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/cellular-laboratories-de-aging-toner/?id=13348&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/cellular-laboratories-de-aging-toner-580044026-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 30.0,
+            "maximumCashback": 1.09,
+            "maximumCashbackString": "$1.09",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 54.5,
+            "maximumPriceString": "$54.50",
+            "minimumPrice": 54.5,
+            "minimumPriceString": "$54.50",
+            "name": "Cellular Laboratories&reg; De-Aging Toner",
+            "referralUrl": "https://www.shop.com/cellular-laboratories-de-aging-toner-580044026-p.xhtml?publisherID=TEST",
+            "shortDescription": "Cellular Laboratories De-Aging Toner gently cleanses excess dirt and residue while balancing and preparing skin for optimal retention of treatments and moisturizer. This multi-functional formula helps protect and soothe skin, while effectively..."
+        },
+        {
+            "brand": "Cellular Laboratories&reg;",
+            "id": 616255769,
+            "image": {
+                "caption": "Cellular Laboratories&reg; De-Aging Eye Creme",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/575527517__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/575527517__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/575527517__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/616255769?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/cellular-laboratories-de-aging-eye-creme/?id=13349&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/cellular-laboratories-de-aging-eye-creme-575527517-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 37.0,
+            "maximumCashback": 1.32,
+            "maximumCashbackString": "$1.32",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 65.95,
+            "maximumPriceString": "$65.95",
+            "minimumPrice": 65.95,
+            "minimumPriceString": "$65.95",
+            "name": "Cellular Laboratories&reg; De-Aging Eye Creme",
+            "referralUrl": "https://www.shop.com/cellular-laboratories-de-aging-eye-creme-575527517-p.xhtml?publisherID=TEST",
+            "shortDescription": "Pamper the most delicate skin on your face - your eyes - daily to ensure a vibrant, rested appearance. Eye cr&egrave;me is important, especially as we age, to help restore moisture to the area around the eyes. When you are tired, it shows in these..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 1777175966,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Retinol Cr&egrave;me",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1807380523__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1807380523__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1807380523__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1777175966?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-retinol-creme/?id=5819184&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-retinol-creme-1807380523-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 32.0,
+            "maximumCashback": 1.2,
+            "maximumCashbackString": "$1.20",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 60.0,
+            "maximumPriceString": "$60.00",
+            "minimumPrice": 60.0,
+            "minimumPriceString": "$60.00",
+            "name": "Lumi&egrave;re de Vie&reg; Retinol Cr&egrave;me",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-retinol-creme-1807380523-p.xhtml?publisherID=TEST",
+            "shortDescription": "Experience the revitalizing benefits of Retinol with our Lumiere de Vie Retinol Cr&egrave;me. Its powerful ingredients target fine lines and wrinkles, improve elasticity and brighten skin for a healthy-looking, glowing complexion.       Please Note:..."
+        },
+        {
+            "brand": "Clear Shield&reg;",
+            "id": 600458442,
+            "image": {
+                "caption": "ClearShield&reg; Maximum Protection and Hydration",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214200/214267/products/559010729__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214200/214267/products/559010729__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214200/214267/products/559010729__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600458442?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clearshield-maximum-protection-and-hydration-559010729-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 10.5,
+            "maximumCashback": 0.48,
+            "maximumCashbackString": "$0.48",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 23.95,
+            "maximumPriceString": "$23.95",
+            "minimumPrice": 13.95,
+            "minimumPriceString": "$13.95",
+            "name": "ClearShield&reg; Maximum Protection and Hydration",
+            "referralUrl": "https://www.shop.com/clearshield-maximum-protection-and-hydration-559010729-p.xhtml?publisherID=TEST",
+            "shortDescription": "The body has many lines of defense to help protect itself from harm. The skin is the first line of defense. Nature did not intend for the skin to be exposed to odors, stains, dirt, chemicals and irritants. ClearShield Maximum Protection and Hydration..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 816161597,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Intense Rejuvenation Cr&egrave;me",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147156__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147156__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147156__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/816161597?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-intense-rejuvenation-creme/?id=4812129&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-intense-rejuvenation-creme-792147156-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 35.0,
+            "maximumCashback": 1.25,
+            "maximumCashbackString": "$1.25",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 62.5,
+            "maximumPriceString": "$62.50",
+            "minimumPrice": 62.5,
+            "minimumPriceString": "$62.50",
+            "name": "Lumi&egrave;re de Vie&reg; Intense Rejuvenation Cr&egrave;me",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-intense-rejuvenation-creme-792147156-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re de Vie Intense Rejuvenation Cr&egrave;me is a super-hydrating, intensive repair treatment developed for chronically-stressed skin and designed to work with the skin's renewal process. An ultra rich, fast-absorbing formula specifically..."
+        },
+        {
+            "brand": "Royal Spa&reg;",
+            "id": 1687359944,
+            "image": {
+                "caption": "Royal Spa&reg; Nourishing Brown Sugar Bath & Shower Gel",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/1717564498__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/1717564498__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/1717564498__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1687359944?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/royal-spa-nourishing-brown-sugar-bath-and-shower-gel-1717564498-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 8.5,
+            "maximumCashback": 0.4,
+            "maximumCashbackString": "$0.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 19.95,
+            "maximumPriceString": "$19.95",
+            "minimumPrice": 19.95,
+            "minimumPriceString": "$19.95",
+            "name": "Royal Spa&reg; Nourishing Brown Sugar Bath & Shower Gel",
+            "referralUrl": "https://www.shop.com/royal-spa-nourishing-brown-sugar-bath-and-shower-gel-1717564498-p.xhtml?publisherID=TEST",
+            "shortDescription": "Bathe your skin in the sweet scent of brown sugar with this foaming shower gel. Infused with mica, this caramelized body cleanser leaves skin feeling soft and conditioned throughout the day. Refresh your skin with the Royal Spa Nourishing Brown Sugar..."
+        },
+        {
+            "brand": "Cellular Laboratories&reg;",
+            "id": 644448603,
+            "image": {
+                "caption": "Cellular Laboratories&reg; De-Aging Day Creme SPF 20",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/604981553__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/604981553__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/604981553__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/644448603?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/cellular-laboratories-de-aging-day-creme-spf-20/?id=13346&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/cellular-laboratories-de-aging-day-creme-spf-20-604981553-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 37.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 67.5,
+            "maximumPriceString": "$67.50",
+            "minimumPrice": 67.5,
+            "minimumPriceString": "$67.50",
+            "name": "Cellular Laboratories&reg; De-Aging Day Creme SPF 20",
+            "referralUrl": "https://www.shop.com/cellular-laboratories-de-aging-day-creme-spf-20-604981553-p.xhtml?publisherID=TEST",
+            "shortDescription": "Cellular Laboratories De-Aging Moisturizing Day Cr&egrave;me with Sunscreen SPF 20 helps to protect the skin from premature aging brought on by harsh environments and the sun. Vitamins help make the skin smooth and soft while protecting against free..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1839783183,
+            "image": {
+                "caption": "Motives&reg; Liquid Lipstick",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1869987733__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1869987733__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1869987733__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1839783183?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-liquid-lipstick/?id=5820391&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-liquid-lipstick-1869987733-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 9.75,
+            "maximumCashback": 0.4,
+            "maximumCashbackString": "$0.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 20.0,
+            "maximumPriceString": "$20.00",
+            "minimumPrice": 20.0,
+            "minimumPriceString": "$20.00",
+            "name": "Motives&reg; Liquid Lipstick",
+            "referralUrl": "https://www.shop.com/motives-liquid-lipstick-1869987733-p.xhtml?publisherID=TEST",
+            "shortDescription": "Experience obsession at first swipe with our newest addition to the Motives&reg; lipstick line-up, the richly pigmented Liquid Lipstick. Unleash the beauty of this long-lasting, cushiony formula that is infused with nourishing ingredients that will..."
+        },
+        {
+            "brand": "Skintelligence&reg;",
+            "id": 600492563,
+            "image": {
+                "caption": "Skintelligence&reg; Daily Moisture Enhancer",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053507__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053507__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053507__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600492563?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/skintelligence-daily-moisture-enhancer/?id=2204&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/skintelligence-daily-moisture-enhancer-559053507-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 11.0,
+            "maximumCashback": 0.5,
+            "maximumCashbackString": "$0.50",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 24.95,
+            "maximumPriceString": "$24.95",
+            "minimumPrice": 24.95,
+            "minimumPriceString": "$24.95",
+            "name": "Skintelligence&reg; Daily Moisture Enhancer",
+            "referralUrl": "https://www.shop.com/skintelligence-daily-moisture-enhancer-559053507-p.xhtml?publisherID=TEST",
+            "shortDescription": "Skintelligence Daily Moisture Enhancer is a unique emulsion formula that protects and re-moisturizes the inner tissues to give your skin a smooth, firm and youthful-looking appearance. The formula is non-oily, naturally fragrant, pH balanced and may..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 816161596,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Eye Balm",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147155__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147155__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147155__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/816161596?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-eye-balm/?id=4812126&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-eye-balm-792147155-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 24.0,
+            "maximumCashback": 0.9,
+            "maximumCashbackString": "$0.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 44.95,
+            "maximumPriceString": "$44.95",
+            "minimumPrice": 44.95,
+            "minimumPriceString": "$44.95",
+            "name": "Lumi&egrave;re de Vie&reg; Eye Balm",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-eye-balm-792147155-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re de Vie Eye Balm helps to soothe and reduce the appearance of puffiness, while deeply conditioning and hydrating the delicate eye area. The appearance of fine lines and enlarged pores is dramatically improved while helping to firm the..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1800884253,
+            "image": {
+                "caption": "Motives&reg; Lash Frenzy Fiber Lush Mascara",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1831088810__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1831088810__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1831088810__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1800884253?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-lash-frenzy-fiber-lush-mascara/?id=5819153&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-lash-frenzy-fiber-lush-mascara-1831088810-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 15.0,
+            "maximumCashback": 0.74,
+            "maximumCashbackString": "$0.74",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 36.95,
+            "maximumPriceString": "$36.95",
+            "minimumPrice": 36.95,
+            "minimumPriceString": "$36.95",
+            "name": "Motives&reg; Lash Frenzy Fiber Lush Mascara",
+            "referralUrl": "https://www.shop.com/motives-lash-frenzy-fiber-lush-mascara-1831088810-p.xhtml?publisherID=TEST",
+            "shortDescription": "Get the look of false lashes without the work. Fiber Lush Mascara is formulated with fibers that adhere to your lashes making them look longer, fuller and drop-dead luscious. This one-step formula has been perfectly paired with a brush designed for..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1845794969,
+            "image": {
+                "caption": "Motives&reg; Precisely The Point Eye Line",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1875999519__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1875999519__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1875999519__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1845794969?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-precisely-the-point-eye-line/?id=5820399&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-precisely-the-point-eye-line-1875999519-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 11.0,
+            "maximumCashback": 0.4,
+            "maximumCashbackString": "$0.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 19.95,
+            "maximumPriceString": "$19.95",
+            "minimumPrice": 19.95,
+            "minimumPriceString": "$19.95",
+            "name": "Motives&reg; Precisely The Point Eye Line",
+            "referralUrl": "https://www.shop.com/motives-precisely-the-point-eye-line-1875999519-p.xhtml?publisherID=TEST",
+            "shortDescription": "Let\u2019s get to the point. No eye look is complete without a swipe of liner and your new favorite has just arrived. Motives Precisely The Point Eye Line provides ultra-pigmented color that glides on like a dream and dries almost instantly to prevent..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 1810604223,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Brightening C-Serum",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1840808778__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1840808778__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1840808778__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1810604223?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-brightening-c-serum/?id=5819150&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-brightening-c-serum-1840808778-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 40.0,
+            "maximumCashback": 1.4,
+            "maximumCashbackString": "$1.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 70.0,
+            "maximumPriceString": "$70.00",
+            "minimumPrice": 70.0,
+            "minimumPriceString": "$70.00",
+            "name": "Lumi&egrave;re de Vie&reg; Brightening C-Serum",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-brightening-c-serum-1840808778-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumiere de Vie Brightening C-Serum delivers a healthy dose of Vitamin C to the skin to help brighten and give a youthful-looking complexion. This formula\u2019s strong antioxidant properties help to fight the signs of aging and oxidative stress, while..."
+        },
+        {
+            "brand": "Vitashield&reg;",
+            "id": 600540633,
+            "image": {
+                "caption": "VitaShield&reg; Intensive Eye Firming Treatment",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243397/products/559092927__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243397/products/559092927__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243397/products/559092927__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600540633?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/vitashield-intensive-eye-firming-treatment/?id=5029&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/vitashield-intensive-eye-firming-treatment-559092927-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 23.5,
+            "maximumCashback": 0.9,
+            "maximumCashbackString": "$0.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 44.95,
+            "maximumPriceString": "$44.95",
+            "minimumPrice": 44.95,
+            "minimumPriceString": "$44.95",
+            "name": "VitaShield&reg; Intensive Eye Firming Treatment",
+            "referralUrl": "https://www.shop.com/vitashield-intensive-eye-firming-treatment-559092927-p.xhtml?publisherID=TEST",
+            "shortDescription": "A powerful blend of vitamins and coenzyme Q10 designed to lessen the appearance of fine lines and wrinkles. Vitamin A and other compounds provide added power for younger-looking skin. Added cucumber extract can tighten the skin and lessen under-eye..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 893827111,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Facial Cleanser",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/894127079__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/894127079__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/894127079__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/893827111?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-facial-cleanser/?id=4993611&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-facial-cleanser-894127079-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 20.5,
+            "maximumCashback": 0.8,
+            "maximumCashbackString": "$0.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 39.95,
+            "maximumPriceString": "$39.95",
+            "minimumPrice": 39.95,
+            "minimumPriceString": "$39.95",
+            "name": "Lumi&egrave;re de Vie&reg; Facial Cleanser",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-facial-cleanser-894127079-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re de Vie Facial Cleanser is a powerful cleanser that helps to moisturize while cleansing, refreshing and invigorating the skin. The appearance of rough, dry skin is visibly diminished, creating skin that is softer and smoother."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 580801185,
+            "image": {
+                "caption": "Motives&reg; 10 Years Younger Makeup Setting Spray",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366061__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366061__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366061__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/580801185?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-10-years-younger-makeup-setting-spray/?id=1180645&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-10-years-younger-makeup-setting-spray-536366061-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 17.0,
+            "maximumCashback": 0.6,
+            "maximumCashbackString": "$0.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 29.95,
+            "maximumPriceString": "$29.95",
+            "minimumPrice": 29.95,
+            "minimumPriceString": "$29.95",
+            "name": "Motives&reg; 10 Years Younger Makeup Setting Spray",
+            "referralUrl": "https://www.shop.com/motives-10-years-younger-makeup-setting-spray-536366061-p.xhtml?publisherID=TEST",
+            "shortDescription": "A setting spray that mists on weightlessly to reduce makeup slippage and keep skin looking beautifully flawless. Save up to 50% of makeup usage with this unique spray. Keep your skin looking fresh throughout the day."
+        },
+        {
+            "brand": "Cellular Laboratories&reg;",
+            "id": 614761634,
+            "image": {
+                "caption": "Cellular Laboratories&reg; De-Aging Cr&egrave;me",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/574000206__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/574000206__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214600/214693/products/574000206__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/614761634?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/cellular-laboratories-de-aging-creme/?id=2071&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/cellular-laboratories-de-aging-creme-574000206-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 62.0,
+            "maximumCashback": 2.0,
+            "maximumCashbackString": "$2.00",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 99.95,
+            "maximumPriceString": "$99.95",
+            "minimumPrice": 99.95,
+            "minimumPriceString": "$99.95",
+            "name": "Cellular Laboratories&reg; De-Aging Cr&egrave;me",
+            "referralUrl": "https://www.shop.com/cellular-laboratories-de-aging-creme-574000206-p.xhtml?publisherID=TEST",
+            "shortDescription": "Cellular Laboratories De-Aging Cr&egrave;me has a cutting edge formula of powerful skin brighteners and wrinkle-fighting complexes.    The Cellular Laboratories De-Aging Cr&egrave;me is a multi-functional (multi-dimensional) approach to intensive skin..."
+        },
+        {
+            "brand": "Royal Spa&reg;",
+            "id": 600489359,
+            "image": {
+                "caption": "Royal Spa&reg; Smooth As Silk Hydrating Lotion",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053503__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053503__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243388/products/559053503__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600489359?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/royal-spa-smooth-as-silk-hydrating-lotion-559053503-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 11.0,
+            "maximumCashback": 0.5,
+            "maximumCashbackString": "$0.50",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 24.95,
+            "maximumPriceString": "$24.95",
+            "minimumPrice": 24.95,
+            "minimumPriceString": "$24.95",
+            "name": "Royal Spa&reg; Smooth As Silk Hydrating Lotion",
+            "referralUrl": "https://www.shop.com/royal-spa-smooth-as-silk-hydrating-lotion-559053503-p.xhtml?publisherID=TEST",
+            "shortDescription": "Royal Spa Smooth As Silk Hydrating Lotion is a skin conditioner and super-moisturizer, accented with the delicious scent of vanilla. Royal Spa Smooth As Silk Hydrating Lotion earned its name from the results it gives. With a combination of herbal..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 1706021926,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Renewal Elixir",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1736226480__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1736226480__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1736226480__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1706021926?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-renewal-elixir/?id=5818174&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-renewal-elixir-1736226480-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 22.0,
+            "maximumCashback": 0.8,
+            "maximumCashbackString": "$0.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 40.0,
+            "maximumPriceString": "$40.00",
+            "minimumPrice": 40.0,
+            "minimumPriceString": "$40.00",
+            "name": "Lumi&egrave;re de Vie&reg; Renewal Elixir",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-renewal-elixir-1736226480-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re de Vie Renewal Elixir is a luxurious, superior facial oil that deeply moisturizes and reduces the appearance of aging for a youthful-looking, healthy glow. This gentle multitasker utilizes a weightless blend of skin-loving oils to..."
+        },
+        {
+            "brand": "Skintelligence&reg;",
+            "id": 600492591,
+            "image": {
+                "caption": "Skintelligence&reg; Travel Kit",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053512__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053512__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053512__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600492591?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/skintelligence-travel-kit/?id=2209&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/skintelligence-travel-kit-559053512-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 16.0,
+            "maximumCashback": 0.7,
+            "maximumCashbackString": "$0.70",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 34.95,
+            "maximumPriceString": "$34.95",
+            "minimumPrice": 34.95,
+            "minimumPriceString": "$34.95",
+            "name": "Skintelligence&reg; Travel Kit",
+            "referralUrl": "https://www.shop.com/skintelligence-travel-kit-559053512-p.xhtml?publisherID=TEST",
+            "shortDescription": "Using the right skincare system regularly is essential to maintain beautiful, healthy, youthful-looking skin. Don\u2019t let traveling interfere with your regimen. Tend to your skin on the go with the Skintelligence Travel Kit which features Skintelligence..."
+        },
+        {
+            "brand": "Vitashield&reg;",
+            "id": 600540635,
+            "image": {
+                "caption": "VitaShield&reg; Vitamin C & E Intensive Moisturizer",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243397/products/559092929__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243397/products/559092929__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243397/products/559092929__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600540635?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/vitashield-vitamin-c-and-e-intensive-moisturizer/?id=5036&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/vitashield-vitamin-c-and-e-intensive-moisturizer-559092929-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 34.0,
+            "maximumCashback": 1.15,
+            "maximumCashbackString": "$1.15",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 57.5,
+            "maximumPriceString": "$57.50",
+            "minimumPrice": 57.5,
+            "minimumPriceString": "$57.50",
+            "name": "VitaShield&reg; Vitamin C & E Intensive Moisturizer",
+            "referralUrl": "https://www.shop.com/vitashield-vitamin-c-and-e-intensive-moisturizer-559092929-p.xhtml?publisherID=TEST",
+            "shortDescription": "VitaShield Vitamin C & E Intensive Moisturizerdrenches the skin with nutrients that keep it smooth and firm. Using a cutting-edge liposome delivery system, VitaShield Vitamin C & E Intensive Moisturizer penetrates the skin and distributes..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 1736448815,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Rose Quartz Roller",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1766653370__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1766653370__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1766653370__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1736448815?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-rose-quartz-roller/?id=5818707&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-rose-quartz-roller-1766653370-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 2.0,
+            "maximumCashback": 0.35,
+            "maximumCashbackString": "$0.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 17.5,
+            "maximumPriceString": "$17.50",
+            "minimumPrice": 17.5,
+            "minimumPriceString": "$17.50",
+            "name": "Lumi&egrave;re de Vie&reg; Rose Quartz Roller",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-rose-quartz-roller-1766653370-p.xhtml?publisherID=TEST",
+            "shortDescription": "This facial massager utilizes rose quartz, which promotes healing from the inside out, and the calming art of massage to relax the face. Utilize this tool to help aid in the absorption of treatments into the skin, reduce the appearance of puffiness,..."
+        },
+        {
+            "brand": "Fixx&trade;",
+            "id": 1361100657,
+            "image": {
+                "caption": "Fixx&trade; Argan Oil Intensive Hair Mask",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/1392418288__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/1392418288__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/1392418288__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1361100657?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/fixx-argan-oil-intensive-hair-mask-1392418288-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 11.0,
+            "maximumCashback": 0.5,
+            "maximumCashbackString": "$0.50",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 24.95,
+            "maximumPriceString": "$24.95",
+            "minimumPrice": 24.95,
+            "minimumPriceString": "$24.95",
+            "name": "Fixx&trade; Argan Oil Intensive Hair Mask",
+            "referralUrl": "https://www.shop.com/fixx-argan-oil-intensive-hair-mask-1392418288-p.xhtml?publisherID=TEST",
+            "shortDescription": "Repair and restore dry, damaged locks for healthier-looking hair with Fixx Argan Oil Intensive Hair Mask. Consistent heat styling, products and washing damages the hair cuticle and fiber leaving strands dull, broken and weak. Utilizing Fancorsil&reg;..."
+        },
+        {
+            "brand": "Fixx&trade;",
+            "id": 603139971,
+            "image": {
+                "caption": "Fixx&trade; Argan Oil No Frizz",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800379__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800379__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800379__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/603139971?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/fixx-argan-oil-no-frizz-561800379-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 9.0,
+            "maximumCashback": 0.39,
+            "maximumCashbackString": "$0.39",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 19.5,
+            "maximumPriceString": "$19.50",
+            "minimumPrice": 19.5,
+            "minimumPriceString": "$19.50",
+            "name": "Fixx&trade; Argan Oil No Frizz",
+            "referralUrl": "https://www.shop.com/fixx-argan-oil-no-frizz-561800379-p.xhtml?publisherID=TEST",
+            "shortDescription": "Frizz is a major problem for both men and women, especially those with curly or full-bodied hair. Hot weather and humidity tend to be the main culprits but, with a little preparation, frizz can be managed and controlled with ease.    Fixx Argan Oil No..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1843924917,
+            "image": {
+                "caption": "THALIA X Motives&reg; Besos Palette",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1874129467__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1874129467__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1874129467__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1843924917?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/thalia-x-motives-besos-palette/?id=5820423&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/thalia-x-motives-besos-palette-1874129467-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 24.0,
+            "maximumCashback": 1.0,
+            "maximumCashbackString": "$1.00",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 49.95,
+            "maximumPriceString": "$49.95",
+            "minimumPrice": 49.95,
+            "minimumPriceString": "$49.95",
+            "name": "THALIA X Motives&reg; Besos Palette",
+            "referralUrl": "https://www.shop.com/thalia-x-motives-besos-palette-1874129467-p.xhtml?publisherID=TEST",
+            "shortDescription": "Our first ever THALIA X Motives VIVA collaboration with the Queen of Latin pop made quite the splash this summer! Now it's time to really turn things up with the new release of the THALIA x Motives&reg; Besos Palette! We are obsessing over this..."
+        },
+        {
+            "brand": "Skintelligence&reg;",
+            "id": 600492561,
+            "image": {
+                "caption": "Skintelligence&reg; Skin Perfecting Complex",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053506__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053506__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243389/products/559053506__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/600492561?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/skintelligence-skin-perfecting-complex/?id=2203&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/skintelligence-skin-perfecting-complex-559053506-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 16.5,
+            "maximumCashback": 0.7,
+            "maximumCashbackString": "$0.70",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 34.95,
+            "maximumPriceString": "$34.95",
+            "minimumPrice": 34.95,
+            "minimumPriceString": "$34.95",
+            "name": "Skintelligence&reg; Skin Perfecting Complex",
+            "referralUrl": "https://www.shop.com/skintelligence-skin-perfecting-complex-559053506-p.xhtml?publisherID=TEST",
+            "shortDescription": "Just a drop of Skintelligence Skin Perfecting Complex is all you need to hydrate your skin cells and promote smoother-looking skin. Designed with proteins and amino acids that moisturize and lubricate the skin, Skintelligence Skin Perfecting Complex..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 816161600,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Serum Concentrate",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147159__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147159__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147159__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/816161600?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-serum-concentrate/?id=4812132&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-serum-concentrate-792147159-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 50.0,
+            "maximumCashback": 1.74,
+            "maximumCashbackString": "$1.74",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 86.95,
+            "maximumPriceString": "$86.95",
+            "minimumPrice": 86.95,
+            "minimumPriceString": "$86.95",
+            "name": "Lumi&egrave;re de Vie&reg; Serum Concentrate",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-serum-concentrate-792147159-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re de Vie Serum Concentrate is the next generation skincare that utilizes nature and science with effective brighteners, powerful antioxidants and the power of the sea. Potent extracts that promote healthy skin collagen for firmer-looking..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1841273495,
+            "image": {
+                "caption": "Motives&reg; Cream Lipstick",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1871478045__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1871478045__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1871478045__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1841273495?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-cream-lipstick/?id=5820176&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-cream-lipstick-1871478045-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 9.0,
+            "maximumCashback": 0.36,
+            "maximumCashbackString": "$0.36",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.0,
+            "maximumPriceString": "$18.00",
+            "minimumPrice": 18.0,
+            "minimumPriceString": "$18.00",
+            "name": "Motives&reg; Cream Lipstick",
+            "referralUrl": "https://www.shop.com/motives-cream-lipstick-1871478045-p.xhtml?publisherID=TEST",
+            "shortDescription": "Get your hands on these creamy lipsticks that will melt onto lips with high-pigmented, gorgeous color. Instantly moisturizing, you will fall head over heels in just one swipe. Launching in a perfectly curated assortment of everyday wearable colors..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1741185748,
+            "image": {
+                "caption": "Motives&reg; Luxe Precision Eye Line",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1771390303__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1771390303__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1771390303__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1741185748?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-luxe-precision-eye-line/?id=5818192&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-luxe-precision-eye-line-1771390303-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 10.0,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.95,
+            "maximumPriceString": "$18.95",
+            "minimumPrice": 18.95,
+            "minimumPriceString": "$18.95",
+            "name": "Motives&reg; Luxe Precision Eye Line",
+            "referralUrl": "https://www.shop.com/motives-luxe-precision-eye-line-1771390303-p.xhtml?publisherID=TEST",
+            "shortDescription": "Elevate your eyes with this richly pigmented and water-resistant eyeliner. From classic lines to cat eyes this liner offers the versatility to create classy or dramatic looks. The superfine tip glides expertly formulated liquid liner onto your lids..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1301048136,
+            "image": {
+                "caption": "Motives&reg; Complexion Perfection Face Primer",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1332818486__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1332818486__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1332818486__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1301048136?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-complexion-perfection-face-primer/?id=5667213&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-complexion-perfection-face-primer-1332818486-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 15.0,
+            "maximumCashback": 0.56,
+            "maximumCashbackString": "$0.56",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 27.95,
+            "maximumPriceString": "$27.95",
+            "minimumPrice": 27.95,
+            "minimumPriceString": "$27.95",
+            "name": "Motives&reg; Complexion Perfection Face Primer",
+            "referralUrl": "https://www.shop.com/motives-complexion-perfection-face-primer-1332818486-p.xhtml?publisherID=TEST",
+            "shortDescription": "An innovative formula that targets pores, fine lines and wrinkles, Complexion Perfection Face Primer visibly reduces the appearance of imperfections for even-looking skin that is prepped and primed. This oil-free, smoothing formula extends the life of..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 580801126,
+            "image": {
+                "caption": "Motives&reg; Vitamin E Lip Treatment",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366002__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366002__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/536366002__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/580801126?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-vitamin-e-lip-treatment/?id=28469&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-vitamin-e-lip-treatment-536366002-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 10.0,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 18.95,
+            "maximumPriceString": "$18.95",
+            "minimumPrice": 18.95,
+            "minimumPriceString": "$18.95",
+            "name": "Motives&reg; Vitamin E Lip Treatment",
+            "referralUrl": "https://www.shop.com/motives-vitamin-e-lip-treatment-536366002-p.xhtml?publisherID=TEST",
+            "shortDescription": "A lip treatment that corrects and hydrates the lips. It is fortified with vitamin E to help repair chapped lips for a soft, smooth, hydrated surface. Create a flawless canvas for any of your favorite Motives lipsticks, glosses or lip shines."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 816161598,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Volcanic Exfoliating Mask",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147157__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147157__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/792147157__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/816161598?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-volcanic-exfoliating-mask/?id=4812130&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-volcanic-exfoliating-mask-792147157-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 30.0,
+            "maximumCashback": 1.04,
+            "maximumCashbackString": "$1.04",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 51.95,
+            "maximumPriceString": "$51.95",
+            "minimumPrice": 51.95,
+            "minimumPriceString": "$51.95",
+            "name": "Lumi&egrave;re de Vie&reg; Volcanic Exfoliating Mask",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-volcanic-exfoliating-mask-792147157-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re de Vie Volcanic Exfoliating Mask is formulated to detoxify, enhance skin\u2019s glow, and dramatically improve tone and radiance. Utilizing rare earth elements and infused with AHA complex and the natural oil-absorbing power of kaolin and..."
+        },
+        {
+            "brand": "Motives&reg; Cosmetics",
+            "id": 1839783205,
+            "image": {
+                "caption": "Motives&reg; Liquid Lip Glaze",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1869987755__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1869987755__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/243300/243380/products/1869987755__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1839783205?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/motives-liquid-lip-glaze/?id=5820392&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/motives-liquid-lip-glaze-1869987755-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 9.25,
+            "maximumCashback": 0.38,
+            "maximumCashbackString": "$0.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 19.0,
+            "maximumPriceString": "$19.00",
+            "minimumPrice": 19.0,
+            "minimumPriceString": "$19.00",
+            "name": "Motives&reg; Liquid Lip Glaze",
+            "referralUrl": "https://www.shop.com/motives-liquid-lip-glaze-1869987755-p.xhtml?publisherID=TEST",
+            "shortDescription": "Meet our new Motives&reg; Liquid Lip Glaze; all the shine, never the sticky. This formula offers ground-breaking swipe appeal that feels as good as it looks. Launching in 8 lust-worthy shades, these babes glide on effortlessly leaving behind..."
+        },
+        {
+            "brand": "Fixx&trade;",
+            "id": 603139969,
+            "image": {
+                "caption": "Fixx&trade; Argan Oil Conditioner",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800377__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800377__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/210000/214200/214202/products/561800377__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/603139969?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/fixx-argan-oil-conditioner-561800377-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 11.0,
+            "maximumCashback": 0.46,
+            "maximumCashbackString": "$0.46",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 22.95,
+            "maximumPriceString": "$22.95",
+            "minimumPrice": 22.95,
+            "minimumPriceString": "$22.95",
+            "name": "Fixx&trade; Argan Oil Conditioner",
+            "referralUrl": "https://www.shop.com/fixx-argan-oil-conditioner-561800377-p.xhtml?publisherID=TEST",
+            "shortDescription": "Take the time to treat your hair with the nutrients it needs to help you look your best. Fixx Argan Oil Conditioner will help free you of dry, dull, tangled hair. Strengthen hair and restore it to its youthful-looking state with the nutrients of..."
+        },
+        {
+            "brand": "Lumi\u00e8re de Vie&reg;",
+            "id": 1047885084,
+            "image": {
+                "caption": "Lumi&egrave;re de Vie&reg; Needle-Free Serum",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1080188517__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1080188517__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/240000/248600/248698/products/1080188517__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1047885084?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "http://www.motivescosmetics.com/product/lumiere-de-vie-needle-free-serum/?id=5566858&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+                    "rel": "motives referralPage",
+                    "type": "text/html"
+                },
+                {
+                    "href": "https://www.shop.com/lumiere-de-vie-needle-free-serum-1080188517-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 63.0,
+            "maximumCashback": 2.0,
+            "maximumCashbackString": "$2.00",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.0,
+            "maximumPrice": 99.95,
+            "maximumPriceString": "$99.95",
+            "minimumPrice": 99.95,
+            "minimumPriceString": "$99.95",
+            "name": "Lumi&egrave;re de Vie&reg; Needle-Free Serum",
+            "referralUrl": "https://www.shop.com/lumiere-de-vie-needle-free-serum-1080188517-p.xhtml?publisherID=TEST",
+            "shortDescription": "Lumi&egrave;re De Vie Needle-Free Serum gives you the look of an instant lift without the needles and the expense. This gentle, lightweight, concentrated serum gives a tightening effect, while hydrating and soothing sensitive complexions. But there\u2019s..."
+        }
+    ],
+    "sellers": [
+        {
+            "id": "111026",
+            "name": "Cosmetic Mall",
+            "productCount": 23911
+        },
+        {
+            "id": "104162",
+            "name": "UnbeatableSale",
+            "productCount": 17028
+        },
+        {
+            "id": "102465",
+            "name": "FragranceNet",
+            "productCount": 6215
+        },
+        {
+            "id": "107913",
+            "name": "Perfume Worldwide",
+            "productCount": 5559
+        },
+        {
+            "id": "102910",
+            "name": "The Fragrance Warehouse  ",
+            "productCount": 2759
+        },
+        {
+            "id": "114426",
+            "name": "iSave",
+            "productCount": 1914
+        },
+        {
+            "id": "119547",
+            "name": "Fragrances4ever",
+            "productCount": 1691
+        },
+        {
+            "id": "111258",
+            "name": "Garner Supply",
+            "productCount": 1547
+        },
+        {
+            "id": "111864",
+            "name": "The Online Drugstore",
+            "productCount": 1057
+        },
+        {
+            "id": "115184",
+            "name": "SHOP.COM Home Essentials",
+            "productCount": 652
+        },
+        {
+            "id": "101549",
+            "name": "SpectrumSuperStore",
+            "productCount": 558
+        },
+        {
+            "id": "129403",
+            "name": "SavingsEmpire",
+            "productCount": 481
+        },
+        {
+            "id": "109164",
+            "name": "My Goods",
+            "productCount": 420
+        },
+        {
+            "id": "116476",
+            "name": "Dollar Days",
+            "productCount": 297
+        },
+        {
+            "id": "72094",
+            "name": "Market America",
+            "productCount": 253
+        },
+        {
+            "id": "112119",
+            "name": "Sophia's Style",
+            "productCount": 244
+        },
+        {
+            "id": "127479",
+            "name": "CleanItSupply",
+            "productCount": 228
+        },
+        {
+            "id": "102234",
+            "name": "BikeSomeWhere.com",
+            "productCount": 186
+        },
+        {
+            "id": "115255",
+            "name": "Shop Jada's",
+            "productCount": 148
+        },
+        {
+            "id": "130978",
+            "name": "Beauty Hound",
+            "productCount": 113
+        }
+    ]
+}

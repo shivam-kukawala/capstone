@@ -1,0 +1,2683 @@
+{
+    "brands": [
+        {
+            "id": "\"Ralph Lauren\"",
+            "name": "Ralph Lauren",
+            "productCount": 7686
+        },
+        {
+            "id": "Kangol",
+            "name": "Kangol",
+            "productCount": 149
+        },
+        {
+            "id": "\"Calvin Klein\"",
+            "name": "Calvin Klein",
+            "productCount": 6038
+        },
+        {
+            "id": "Alfani",
+            "name": "Alfani",
+            "productCount": 4675
+        },
+        {
+            "id": "\"Tommy Hilfiger\"",
+            "name": "Tommy Hilfiger",
+            "productCount": 3985
+        },
+        {
+            "id": "\"Bar III\"",
+            "name": "Bar III",
+            "productCount": 3676
+        },
+        {
+            "id": "DKNY",
+            "name": "DKNY",
+            "productCount": 3097
+        },
+        {
+            "id": "\"Rachel Rachel Roy\"",
+            "name": "Rachel Rachel Roy",
+            "productCount": 2628
+        },
+        {
+            "id": "\"Free People\"",
+            "name": "Free People",
+            "productCount": 2528
+        },
+        {
+            "id": "\"Vince Camuto\"",
+            "name": "Vince Camuto",
+            "productCount": 2549
+        },
+        {
+            "id": "\"Michael Kors\"",
+            "name": "Michael Kors",
+            "productCount": 2489
+        },
+        {
+            "id": "Tahari",
+            "name": "Tahari",
+            "productCount": 1767
+        },
+        {
+            "id": "Aeropostale",
+            "name": "Aeropostale",
+            "productCount": 1797
+        },
+        {
+            "id": "Kasper",
+            "name": "Kasper",
+            "productCount": 1601
+        },
+        {
+            "id": "\"Cinderella Couture\"",
+            "name": "Cinderella Couture",
+            "productCount": 1614
+        },
+        {
+            "id": "Guess",
+            "name": "Guess",
+            "productCount": 1525
+        },
+        {
+            "id": "\"Denim & Co.\"",
+            "name": "Denim & Co.",
+            "productCount": 1473
+        },
+        {
+            "id": "\"Isaac Mizrahi\"",
+            "name": "Isaac Mizrahi",
+            "productCount": 1382
+        },
+        {
+            "id": "\"Anne Klein\"",
+            "name": "Anne Klein",
+            "productCount": 1298
+        },
+        {
+            "id": "\"BCBG MAX AZRIA\"",
+            "name": "BCBG MAX AZRIA",
+            "productCount": 971
+        }
+    ],
+    "categories": [
+        {
+            "id": "2-12357231",
+            "name": "Women",
+            "productCount": 129942
+        },
+        {
+            "id": "2-12356422",
+            "name": "Accessories",
+            "productCount": 29158
+        },
+        {
+            "id": "2-12357069",
+            "name": "Men",
+            "productCount": 32933
+        },
+        {
+            "id": "2-12356831",
+            "name": "Girls",
+            "productCount": 13223
+        },
+        {
+            "id": "2-12356453",
+            "name": "Baby & Toddler",
+            "productCount": 3609
+        },
+        {
+            "id": "2-12356679",
+            "name": "Boys",
+            "productCount": 2320
+        }
+    ],
+    "numberOfProducts": 211185,
+    "priceRanges": [
+        {
+            "id": "[0.01 TO 20.0]",
+            "maximumPrice": 20.0,
+            "maximumPriceString": "$20.00",
+            "minimumPrice": 0.01,
+            "minimumPriceString": "$0.01",
+            "productCount": 79034
+        },
+        {
+            "id": "[20.01 TO 30.0]",
+            "maximumPrice": 30.0,
+            "maximumPriceString": "$30.00",
+            "minimumPrice": 20.01,
+            "minimumPriceString": "$20.01",
+            "productCount": 48068
+        },
+        {
+            "id": "[30.01 TO 40.0]",
+            "maximumPrice": 40.0,
+            "maximumPriceString": "$40.00",
+            "minimumPrice": 30.01,
+            "minimumPriceString": "$30.01",
+            "productCount": 28701
+        },
+        {
+            "id": "[40.01 TO 60.0]",
+            "maximumPrice": 60.0,
+            "maximumPriceString": "$60.00",
+            "minimumPrice": 40.01,
+            "minimumPriceString": "$40.01",
+            "productCount": 31793
+        },
+        {
+            "id": "[60.01 TO 7600.0]",
+            "maximumPrice": 7600.0,
+            "maximumPriceString": "$7,600.00",
+            "minimumPrice": 60.01,
+            "minimumPriceString": "$60.01",
+            "productCount": 25084
+        }
+    ],
+    "products": [
+        {
+            "brand": "",
+            "id": 1826463339,
+            "image": {
+                "caption": "Scully Women's   Boar Suede Jacket L152 Tall",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667891__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667891__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667891__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826463339?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-boar-suede-jacket-l152-tall-1856667891-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 6.54,
+            "maximumCashbackString": "$6.54",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 8.72,
+            "maximumPrice": 218.0,
+            "maximumPriceString": "$218.00",
+            "minimumPrice": 218.0,
+            "minimumPriceString": "$218.00",
+            "name": "Scully Women's   Boar Suede Jacket L152 Tall",
+            "referralUrl": "https://www.shop.com/scully-womens-boar-suede-jacket-l152-tall-1856667891-p.xhtml?publisherID=TEST",
+            "shortDescription": "This boar suede jacket is fitted with fringe along the sleeve and chest. It also features concho buttons and beading detail and acetate lining."
+        },
+        {
+            "brand": "",
+            "id": 1826462634,
+            "image": {
+                "caption": "Scully Women's   Boar Suede Jacket L152",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667186__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667186__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667186__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826462634?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-boar-suede-jacket-l152-1856667186-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 6.0,
+            "maximumCashbackString": "$6.00",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 8.0,
+            "maximumPrice": 200.0,
+            "maximumPriceString": "$200.00",
+            "minimumPrice": 200.0,
+            "minimumPriceString": "$200.00",
+            "name": "Scully Women's   Boar Suede Jacket L152",
+            "referralUrl": "https://www.shop.com/scully-womens-boar-suede-jacket-l152-1856667186-p.xhtml?publisherID=TEST",
+            "shortDescription": "This boar suede jacket is fitted with fringe along the sleeve and chest. It also features concho buttons and beading detail and acetate lining."
+        },
+        {
+            "brand": "",
+            "id": 1826975708,
+            "image": {
+                "caption": "Scully Women's   788619",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180260__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180260__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180260__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975708?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-788619-1857180260-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 4.2,
+            "maximumCashbackString": "$4.20",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 5.598,
+            "maximumPrice": 139.95,
+            "maximumPriceString": "$139.95",
+            "minimumPrice": 139.95,
+            "minimumPriceString": "$139.95",
+            "name": "Scully Women's   788619",
+            "referralUrl": "https://www.shop.com/scully-womens-788619-1857180260-p.xhtml?publisherID=TEST",
+            "shortDescription": "Timeless vintage styling. This wool crepe frock coat has classic notched lapels. Double welt left breast pocket and two lower double welt pockets. 100% crepe wool. Made in USA."
+        },
+        {
+            "brand": "Fila",
+            "id": 1826522090,
+            "image": {
+                "caption": "Fila Men's   Core Color Blocked Crew",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726642__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726642__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726642__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826522090?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/fila-mens-core-color-blocked-crew-1856726642-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.9,
+            "maximumCashbackString": "$0.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.2,
+            "maximumPrice": 30.0,
+            "maximumPriceString": "$30.00",
+            "minimumPrice": 29.95,
+            "minimumPriceString": "$29.95",
+            "name": "Fila Men's   Core Color Blocked Crew",
+            "referralUrl": "https://www.shop.com/fila-mens-core-color-blocked-crew-1856726642-p.xhtml?publisherID=TEST",
+            "shortDescription": "This poly interlock crew is moisture wicking and breathable, with SPF 30 UV protection, anti-odor properties, a reflective silver F-box heat transfer logo, printed FILA tennis neck tape and a curved hem and drop tail."
+        },
+        {
+            "brand": "",
+            "id": 1826463222,
+            "image": {
+                "caption": "Scully Women's   PSL-136",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667774__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667774__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667774__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826463222?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-psl-136-1856667774-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.89,
+            "maximumCashbackString": "$1.89",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.52,
+            "maximumPrice": 63.0,
+            "maximumPriceString": "$63.00",
+            "minimumPrice": 63.0,
+            "minimumPriceString": "$63.00",
+            "name": "Scully Women's   PSL-136",
+            "referralUrl": "https://www.shop.com/scully-womens-psl-136-1856667774-p.xhtml?publisherID=TEST",
+            "shortDescription": "Full length skirt. Gathered waist with elastic band. Vertical panels for fullness. 100% cotton."
+        },
+        {
+            "brand": "",
+            "id": 1827062840,
+            "image": {
+                "caption": "Dearfoams Men's   Marled Knit Cabin Slipper Sock",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857267392__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857267392__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857267392__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1827062840?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/dearfoams-mens-marled-knit-cabin-slipper-sock-1857267392-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.6,
+            "maximumCashbackString": "$0.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.798,
+            "maximumPrice": 19.95,
+            "maximumPriceString": "$19.95",
+            "minimumPrice": 19.95,
+            "minimumPriceString": "$19.95",
+            "name": "Dearfoams Men's   Marled Knit Cabin Slipper Sock",
+            "referralUrl": "https://www.shop.com/dearfoams-mens-marled-knit-cabin-slipper-sock-1857267392-p.xhtml?publisherID=TEST",
+            "shortDescription": "Keep your feet cozy and happy with the Dearfoams Marled Knit Cabin Slipper Sock. These socks feature a soft knit lining as treat for your feet, while the snowflake pattern grippers offer extra stability. Solid cuff, heel, and toe Knit lining Snowflake..."
+        },
+        {
+            "brand": "",
+            "id": 1826975531,
+            "image": {
+                "caption": "Scully Women's   738816",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180083__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180083__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180083__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975531?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-738816-1857180083-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.22,
+            "maximumCashbackString": "$2.22",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.96,
+            "maximumPrice": 74.0,
+            "maximumPriceString": "$74.00",
+            "minimumPrice": 74.0,
+            "minimumPriceString": "$74.00",
+            "name": "Scully Women's   738816",
+            "referralUrl": "https://www.shop.com/scully-womens-738816-1857180083-p.xhtml?publisherID=TEST",
+            "shortDescription": "This beautiful vintage five gore walking skirt has a smooth fitting front panel and small center back pleats for fullness with back button closure. The more fabric makes it perfect for any special occasion. 64% cotton 36% polyester. Made in USA."
+        },
+        {
+            "brand": "",
+            "id": 1826975334,
+            "image": {
+                "caption": "Scully Women's   8007",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179886__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179886__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179886__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975334?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-8007-1857179886-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.15,
+            "maximumCashbackString": "$3.15",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 4.198,
+            "maximumPrice": 104.95,
+            "maximumPriceString": "$104.95",
+            "minimumPrice": 104.95,
+            "minimumPriceString": "$104.95",
+            "name": "Scully Women's   8007",
+            "referralUrl": "https://www.shop.com/scully-womens-8007-1857179886-p.xhtml?publisherID=TEST",
+            "shortDescription": "Sleeveless faux shearling jacket with an antique leather appearance. The luxurious fleece trim and lining is 25% polyester and 75% acrylic."
+        },
+        {
+            "brand": "",
+            "id": 1826972797,
+            "image": {
+                "caption": "Ann Creek Women's   Pyramid Tote",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177349__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177349__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177349__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826972797?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/ann-creek-womens-pyramid-tote-1857177349-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.07,
+            "maximumCashbackString": "$2.07",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.758,
+            "maximumPrice": 68.95,
+            "maximumPriceString": "$68.95",
+            "minimumPrice": 68.95,
+            "minimumPriceString": "$68.95",
+            "name": "Ann Creek Women's   Pyramid Tote",
+            "referralUrl": "https://www.shop.com/ann-creek-womens-pyramid-tote-1857177349-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Pyramid Tote includes a mini zippered wallet."
+        },
+        {
+            "brand": "",
+            "id": 1826975520,
+            "image": {
+                "caption": "Scully Women's   PSL-170",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180072__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180072__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180072__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975520?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-psl-170-1857180072-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.62,
+            "maximumCashbackString": "$1.62",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.1556,
+            "maximumPrice": 53.89,
+            "maximumPriceString": "$53.89",
+            "minimumPrice": 53.89,
+            "minimumPriceString": "$53.89",
+            "name": "Scully Women's   PSL-170",
+            "referralUrl": "https://www.shop.com/scully-womens-psl-170-1857180072-p.xhtml?publisherID=TEST",
+            "shortDescription": "Look stylish and trendy in the Scully Leather PSL-170 long skirt. It will complement your waist with its snug elastic fit. The front panel of the waist is embroidered in bright colors, giving it an attractive appearance. Its flowy, feminine shape is..."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750719,
+            "image": {
+                "caption": "Kangol Unisex  Anglobasque Beret",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955271__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955271__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955271__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750719?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-anglobasque-beret-1856955271-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.798,
+            "maximumPrice": 44.95,
+            "maximumPriceString": "$44.95",
+            "minimumPrice": 44.95,
+            "minimumPriceString": "$44.95",
+            "name": "Kangol Unisex  Anglobasque Beret",
+            "referralUrl": "https://www.shop.com/kangol-unisex-anglobasque-beret-1856955271-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Anglobasque Beret is 100% pure wool. Fully lined with Satin, this Tam features a ribbon sweatband to help maintain the Beret's classic look and feel. Functional, and still lives up to Kangol standards in quality and fashion wear."
+        },
+        {
+            "brand": "Johnston & Murphy",
+            "id": 1826750769,
+            "image": {
+                "caption": "Johnston & Murphy Men's   Wool Ribbed Over-The-Calf (6 Pairs)",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955321__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955321__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955321__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750769?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/johnston-and-murphy-mens-wool-ribbed-over-the-calf-6-pairs-1856955321-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.98,
+            "maximumCashbackString": "$1.98",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.638,
+            "maximumPrice": 65.95,
+            "maximumPriceString": "$65.95",
+            "minimumPrice": 65.95,
+            "minimumPriceString": "$65.95",
+            "name": "Johnston & Murphy Men's   Wool Ribbed Over-The-Calf (6 Pairs)",
+            "referralUrl": "https://www.shop.com/johnston-and-murphy-mens-wool-ribbed-over-the-calf-6-pairs-1856955321-p.xhtml?publisherID=TEST",
+            "shortDescription": "Soft and lofty in a premium blend of 65% merino wool, 32% nylon, 3% spandex with a subtle rib detail. Sock is 18\". If you're not fully satisfied with your purchase, you are welcome to return any unworn and unwashed items with tags intact and original..."
+        },
+        {
+            "brand": "",
+            "id": 1826975719,
+            "image": {
+                "caption": "Scully Men's   P-756",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180271__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180271__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180271__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975719?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-p-756-1857180271-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.01,
+            "maximumCashbackString": "$2.01",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.68,
+            "maximumPrice": 67.0,
+            "maximumPriceString": "$67.00",
+            "minimumPrice": 67.0,
+            "minimumPriceString": "$67.00",
+            "name": "Scully Men's   P-756",
+            "referralUrl": "https://www.shop.com/scully-mens-p-756-1857180271-p.xhtml?publisherID=TEST",
+            "shortDescription": "100% cotton snap front shirt. Patriot collection red/what/blue color block (front and back). Dry clean only."
+        },
+        {
+            "brand": "",
+            "id": 1826975716,
+            "image": {
+                "caption": "Scully Men's   P-756SSX",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180268__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180268__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180268__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975716?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-p-756ssx-1857180268-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.01,
+            "maximumCashbackString": "$2.01",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.68,
+            "maximumPrice": 67.0,
+            "maximumPriceString": "$67.00",
+            "minimumPrice": 67.0,
+            "minimumPriceString": "$67.00",
+            "name": "Scully Men's   P-756SSX",
+            "referralUrl": "https://www.shop.com/scully-mens-p-756ssx-1857180268-p.xhtml?publisherID=TEST",
+            "shortDescription": "100% cotton snap front short sleeve shirt. Patriot collection red/what/blue color block (front and back). Dry clean only."
+        },
+        {
+            "brand": "",
+            "id": 1826975233,
+            "image": {
+                "caption": "Scully Men's   P-627",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179785__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179785__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179785__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975233?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-p-627-1857179785-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.4,
+            "maximumCashbackString": "$2.40",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.2,
+            "maximumPrice": 80.0,
+            "maximumPriceString": "$80.00",
+            "minimumPrice": 80.0,
+            "minimumPriceString": "$80.00",
+            "name": "Scully Men's   P-627",
+            "referralUrl": "https://www.shop.com/scully-mens-p-627-1857179785-p.xhtml?publisherID=TEST",
+            "shortDescription": "Poly/rayon blend snap front shirt. Gold embroidery music notes (front and back). Machine wash cold hang dry."
+        },
+        {
+            "brand": "",
+            "id": 1826975722,
+            "image": {
+                "caption": "Scully Women's   HC64",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180274__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180274__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180274__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975722?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-hc64-1857180274-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.38,
+            "maximumCashbackString": "$2.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.178,
+            "maximumPrice": 79.45,
+            "maximumPriceString": "$79.45",
+            "minimumPrice": 79.45,
+            "minimumPriceString": "$79.45",
+            "name": "Scully Women's   HC64",
+            "referralUrl": "https://www.shop.com/scully-womens-hc64-1857180274-p.xhtml?publisherID=TEST",
+            "shortDescription": "100% rayon multi-fabric skirt with elastic waist and front drawstring. Dry-clean."
+        },
+        {
+            "brand": "",
+            "id": 1826975527,
+            "image": {
+                "caption": "Scully Men's   P-756SS",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180079__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180079__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180079__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975527?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-p-756ss-1857180079-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.01,
+            "maximumCashbackString": "$2.01",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.68,
+            "maximumPrice": 67.0,
+            "maximumPriceString": "$67.00",
+            "minimumPrice": 67.0,
+            "minimumPriceString": "$67.00",
+            "name": "Scully Men's   P-756SS",
+            "referralUrl": "https://www.shop.com/scully-mens-p-756ss-1857180079-p.xhtml?publisherID=TEST",
+            "shortDescription": "100% cotton snap front short sleeve shirt. Patriot collection red/what/blue color block (front and back). Dry clean only."
+        },
+        {
+            "brand": "",
+            "id": 1826978647,
+            "image": {
+                "caption": "Ann Creek Women's   Tassel Wristlet",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183199__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183199__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183199__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826978647?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/ann-creek-womens-tassel-wristlet-1857183199-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.84,
+            "maximumCashbackString": "$0.84",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.118,
+            "maximumPrice": 27.95,
+            "maximumPriceString": "$27.95",
+            "minimumPrice": 27.95,
+            "minimumPriceString": "$27.95",
+            "name": "Ann Creek Women's   Tassel Wristlet",
+            "referralUrl": "https://www.shop.com/ann-creek-womens-tassel-wristlet-1857183199-p.xhtml?publisherID=TEST",
+            "shortDescription": "Add a distinctive finish to your stylish ensembles with the Rosewand Tassel Wristlet. Designed with a loop-around closure, this fashionable wristlet features a kitty accent detail, snout logo hardware, and an O-ring with detachable tassel charm. Part..."
+        },
+        {
+            "brand": "",
+            "id": 1826975528,
+            "image": {
+                "caption": "Scully Men's   520924",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180080__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180080__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180080__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975528?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-520924-1857180080-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.38,
+            "maximumCashbackString": "$2.38",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.178,
+            "maximumPrice": 79.45,
+            "maximumPriceString": "$79.45",
+            "minimumPrice": 79.45,
+            "minimumPriceString": "$79.45",
+            "name": "Scully Men's   520924",
+            "referralUrl": "https://www.shop.com/scully-mens-520924-1857180080-p.xhtml?publisherID=TEST",
+            "shortDescription": "This classic wool blend vest features a notched lapel four pocket front and metal button closure. Poly-wool blend. Made in USA."
+        },
+        {
+            "brand": "",
+            "id": 1826975257,
+            "image": {
+                "caption": "Scully Men's   PS-93",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179809__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179809__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179809__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975257?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-ps-93-1857179809-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.22,
+            "maximumCashbackString": "$2.22",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.96,
+            "maximumPrice": 74.0,
+            "maximumPriceString": "$74.00",
+            "minimumPrice": 74.0,
+            "minimumPriceString": "$74.00",
+            "name": "Scully Men's   PS-93",
+            "referralUrl": "https://www.shop.com/scully-mens-ps-93-1857179809-p.xhtml?publisherID=TEST",
+            "shortDescription": "100% cotton snap front shirt. Signature series skull stripe with contrasting trim. Machine wash cold hang dry."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750756,
+            "image": {
+                "caption": "Kangol Women's   11\" Modelaine Beret",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955308__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955308__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955308__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750756?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-womens-11-modelaine-beret-1856955308-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.5,
+            "maximumCashbackString": "$1.50",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.998,
+            "maximumPrice": 49.95,
+            "maximumPriceString": "$49.95",
+            "minimumPrice": 43.0,
+            "minimumPriceString": "$43.00",
+            "name": "Kangol Women's   11\" Modelaine Beret",
+            "referralUrl": "https://www.shop.com/kangol-womens-11-modelaine-beret-1856955308-p.xhtml?publisherID=TEST",
+            "shortDescription": "This one size beret is distinctly embroidered with the Kangol Wordmark."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750993,
+            "image": {
+                "caption": "Kangol Men's   Tweed Ripley Flat Cap",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955545__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955545__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955545__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750993?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-mens-tweed-ripley-flat-cap-1856955545-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.3,
+            "maximumCashbackString": "$3.30",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 4.398,
+            "maximumPrice": 109.95,
+            "maximumPriceString": "$109.95",
+            "minimumPrice": 109.95,
+            "minimumPriceString": "$109.95",
+            "name": "Kangol Men's   Tweed Ripley Flat Cap",
+            "referralUrl": "https://www.shop.com/kangol-mens-tweed-ripley-flat-cap-1856955545-p.xhtml?publisherID=TEST",
+            "shortDescription": "Complete the casual hipster look with the Kangol Tweed Ripley Flat Cap. Featuring an 8-panel design with a soft peak, this cuffed wool cap offers great comfort complemented with a snug fit. Produced in Italy using finest Italian fabric, the cap is..."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750954,
+            "image": {
+                "caption": "Kangol Men's   Bamboo Hawker Newsboy Cap",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955506__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955506__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955506__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750954?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-mens-bamboo-hawker-newsboy-cap-1856955506-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.83,
+            "maximumCashbackString": "$1.83",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.438,
+            "maximumPrice": 60.95,
+            "maximumPriceString": "$60.95",
+            "minimumPrice": 55.0,
+            "minimumPriceString": "$55.00",
+            "name": "Kangol Men's   Bamboo Hawker Newsboy Cap",
+            "referralUrl": "https://www.shop.com/kangol-mens-bamboo-hawker-newsboy-cap-1856955506-p.xhtml?publisherID=TEST",
+            "shortDescription": "Add a touch of refinement to your look with the Kangol Bamboo Hawker Newsboy Cap. Made from a blend of viscose and modacrylic, this luxuriously soft hat features a 100% nylon sweatband for added comfort. 8-panel construction Fillet around crown base..."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750751,
+            "image": {
+                "caption": "Kangol Unisex  Wool Monty Beret",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955303__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955303__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955303__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750751?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-wool-monty-beret-1856955303-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.798,
+            "maximumPrice": 44.95,
+            "maximumPriceString": "$44.95",
+            "minimumPrice": 44.95,
+            "minimumPriceString": "$44.95",
+            "name": "Kangol Unisex  Wool Monty Beret",
+            "referralUrl": "https://www.shop.com/kangol-unisex-wool-monty-beret-1856955303-p.xhtml?publisherID=TEST",
+            "shortDescription": "This traditional Kangol military beret has made a fashionable transition from the battlefield to the streets."
+        },
+        {
+            "brand": "",
+            "id": 1826975414,
+            "image": {
+                "caption": "Scully Women's   535006",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179966__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179966__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179966__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975414?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-535006-1857179966-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 7.5,
+            "maximumCashbackString": "$7.50",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 9.998,
+            "maximumPrice": 249.95,
+            "maximumPriceString": "$249.95",
+            "minimumPrice": 249.95,
+            "minimumPriceString": "$249.95",
+            "name": "Scully Women's   535006",
+            "referralUrl": "https://www.shop.com/scully-womens-535006-1857179966-p.xhtml?publisherID=TEST",
+            "shortDescription": "Keep your hands free with Scully Leather's classic saddle bag."
+        },
+        {
+            "brand": "",
+            "id": 1826975720,
+            "image": {
+                "caption": "Scully Women's   B93",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180272__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180272__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180272__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975720?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-b93-1857180272-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 4.41,
+            "maximumCashbackString": "$4.41",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 5.88,
+            "maximumPrice": 147.0,
+            "maximumPriceString": "$147.00",
+            "minimumPrice": 147.0,
+            "minimumPriceString": "$147.00",
+            "name": "Scully Women's   B93",
+            "referralUrl": "https://www.shop.com/scully-womens-b93-1857180272-p.xhtml?publisherID=TEST",
+            "shortDescription": "This leather handbag features a full flap with concho and fringe, an interior open pocket and an exterior rear open pocket."
+        },
+        {
+            "brand": "Johnston & Murphy",
+            "id": 1826750901,
+            "image": {
+                "caption": "Johnston & Murphy Men's   Updated Pin Dot (6 Pairs)",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955453__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955453__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955453__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750901?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/johnston-and-murphy-mens-updated-pin-dot-6-pairs-1856955453-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.52,
+            "maximumCashbackString": "$2.52",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.358,
+            "maximumPrice": 83.95,
+            "maximumPriceString": "$83.95",
+            "minimumPrice": 83.95,
+            "minimumPriceString": "$83.95",
+            "name": "Johnston & Murphy Men's   Updated Pin Dot (6 Pairs)",
+            "referralUrl": "https://www.shop.com/johnston-and-murphy-mens-updated-pin-dot-6-pairs-1856955453-p.xhtml?publisherID=TEST",
+            "shortDescription": "Specially knit with arch support, high-performance comfort features and anti-microbial material that helps kill odor-causing bacteria. 76% Innova polypropylene, 23% nylon and 1% spandex. Sock is 12.5\" (slack length). If you're not fully satisfied with..."
+        },
+        {
+            "brand": "Johnston & Murphy",
+            "id": 1826973859,
+            "image": {
+                "caption": "Johnston & Murphy Men's   Flip Billfold Wallet",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178411__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178411__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178411__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826973859?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/johnston-and-murphy-mens-flip-billfold-wallet-1857178411-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.95,
+            "maximumCashbackString": "$1.95",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.598,
+            "maximumPrice": 64.95,
+            "maximumPriceString": "$64.95",
+            "minimumPrice": 64.95,
+            "minimumPriceString": "$64.95",
+            "name": "Johnston & Murphy Men's   Flip Billfold Wallet",
+            "referralUrl": "https://www.shop.com/johnston-and-murphy-mens-flip-billfold-wallet-1857178411-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Flip Billfold Wallet is lightly tumbled, full-grain nappa leather with contrast stitch. Flip out section with thumb-slide ID window, three card pockets, and one side pocket. Flip Billfold Contrast Stitching RFID security shield protects personal..."
+        },
+        {
+            "brand": "",
+            "id": 1826974986,
+            "image": {
+                "caption": "Scully Women's   Embossed Handbag B169",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179538__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179538__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179538__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826974986?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-embossed-handbag-b169-1857179538-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.84,
+            "maximumCashbackString": "$3.84",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 5.118,
+            "maximumPrice": 127.95,
+            "maximumPriceString": "$127.95",
+            "minimumPrice": 127.95,
+            "minimumPriceString": "$127.95",
+            "name": "Scully Women's   Embossed Handbag B169",
+            "referralUrl": "https://www.shop.com/scully-womens-embossed-handbag-b169-1857179538-p.xhtml?publisherID=TEST",
+            "shortDescription": "The spacious Scully Embossed Handbag adds an element of refinement to your casual look. This leather handbag comes with an interior compartment, featuring a center zip divider and organizing pockets, all secured with double magnetic snap closures...."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750774,
+            "image": {
+                "caption": "Kangol Unisex  Bamboo Mowbray",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955326__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955326__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955326__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750774?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-bamboo-mowbray-1856955326-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.92,
+            "maximumCashbackString": "$1.92",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.558,
+            "maximumPrice": 63.95,
+            "maximumPriceString": "$63.95",
+            "minimumPrice": 63.95,
+            "minimumPriceString": "$63.95",
+            "name": "Kangol Unisex  Bamboo Mowbray",
+            "referralUrl": "https://www.shop.com/kangol-unisex-bamboo-mowbray-1856955326-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Bamboo Mowbray is a casual fedora style hat and features a folded brim and an embroidered Kangol logo."
+        },
+        {
+            "brand": "",
+            "id": 1826975337,
+            "image": {
+                "caption": "Scully Men's   524002 36\"",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179889__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179889__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179889__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975337?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-524002-36-1857179889-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.52,
+            "maximumCashbackString": "$2.52",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.36,
+            "maximumPrice": 84.0,
+            "maximumPriceString": "$84.00",
+            "minimumPrice": 84.0,
+            "minimumPriceString": "$84.00",
+            "name": "Scully Men's   524002 36\"",
+            "referralUrl": "https://www.shop.com/scully-mens-524002-36-1857179889-p.xhtml?publisherID=TEST",
+            "shortDescription": "Scully Leather's classic frontier pant in a soft brushed cotton fabric. It makes a fine looking outfit when matched with the new town coat and vest. 100% brushed cotton. 36 inch inseam. Made in USA."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750717,
+            "image": {
+                "caption": "Kangol Unisex  Wool Monty Beret",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955269__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955269__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955269__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750717?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-wool-monty-beret-1856955269-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.65,
+            "maximumCashbackString": "$1.65",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.198,
+            "maximumPrice": 54.95,
+            "maximumPriceString": "$54.95",
+            "minimumPrice": 54.95,
+            "minimumPriceString": "$54.95",
+            "name": "Kangol Unisex  Wool Monty Beret",
+            "referralUrl": "https://www.shop.com/kangol-unisex-wool-monty-beret-1856955269-p.xhtml?publisherID=TEST",
+            "shortDescription": "This traditional Kangol military beret has made a fashionable transition from the battlefield to the streets."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826751032,
+            "image": {
+                "caption": "Kangol Men's   Cord Flat Cap",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955584__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955584__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955584__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826751032?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-mens-cord-flat-cap-1856955584-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.77,
+            "maximumCashbackString": "$1.77",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.358,
+            "maximumPrice": 58.95,
+            "maximumPriceString": "$58.95",
+            "minimumPrice": 54.95,
+            "minimumPriceString": "$54.95",
+            "name": "Kangol Men's   Cord Flat Cap",
+            "referralUrl": "https://www.shop.com/kangol-mens-cord-flat-cap-1856955584-p.xhtml?publisherID=TEST",
+            "shortDescription": "Experience comfort and timeless fashion with the Kangol Cord Flat Cap. Made from a cotton blend, this cap features an embroidery logo detail that adds definition to the silhouette. Embroidery kangaroo logo detail Spot clean 98% cotton, 2% spandex."
+        },
+        {
+            "brand": "Dyeables",
+            "id": 1827105364,
+            "image": {
+                "caption": "Dyeables Women's   HB1805",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857309916__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857309916__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857309916__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1827105364?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/dyeables-womens-hb1805-1857309916-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.11,
+            "maximumCashbackString": "$1.11",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.48,
+            "maximumPrice": 37.0,
+            "maximumPriceString": "$37.00",
+            "minimumPrice": 37.0,
+            "minimumPriceString": "$37.00",
+            "name": "Dyeables Women's   HB1805",
+            "referralUrl": "https://www.shop.com/dyeables-womens-hb1805-1857309916-p.xhtml?publisherID=TEST",
+            "shortDescription": "A classic evening bag, this simple yet sophisticated bag features a structured design with subtle rhinestone ornament and chain strap which can be tucked inside and worn as a clutch."
+        },
+        {
+            "brand": "",
+            "id": 1826975632,
+            "image": {
+                "caption": "Scully Men's   524044",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180184__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180184__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180184__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975632?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-524044-1857180184-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.22,
+            "maximumCashbackString": "$2.22",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.96,
+            "maximumPrice": 74.0,
+            "maximumPriceString": "$74.00",
+            "minimumPrice": 74.0,
+            "minimumPriceString": "$74.00",
+            "name": "Scully Men's   524044",
+            "referralUrl": "https://www.shop.com/scully-mens-524044-1857180184-p.xhtml?publisherID=TEST",
+            "shortDescription": "Match this up with Scully Leather's matching town coat and pant or your favorite outfit. It is made of a soft brushed cotton features four front pockets and notched lapels. Unlined. Made in USA."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826975827,
+            "image": {
+                "caption": "Kangol Unisex  Wool Player",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180379__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180379__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180379__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975827?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-wool-player-1857180379-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.398,
+            "maximumPrice": 59.95,
+            "maximumPriceString": "$59.95",
+            "minimumPrice": 59.95,
+            "minimumPriceString": "$59.95",
+            "name": "Kangol Unisex  Wool Player",
+            "referralUrl": "https://www.shop.com/kangol-unisex-wool-player-1857180379-p.xhtml?publisherID=TEST",
+            "shortDescription": "You don't have to be a player to get spiffy like one. This design was engineered to make an entrance. It features stylish materials with a trend-setting, head-turning, complimenting silhouette combined with Kangol's modern fashion sense."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750916,
+            "image": {
+                "caption": "Kangol Unisex  Wool 504",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955468__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955468__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955468__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750916?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-wool-504-1856955468-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.5,
+            "maximumCashbackString": "$1.50",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.998,
+            "maximumPrice": 49.95,
+            "maximumPriceString": "$49.95",
+            "minimumPrice": 49.95,
+            "minimumPriceString": "$49.95",
+            "name": "Kangol Unisex  Wool 504",
+            "referralUrl": "https://www.shop.com/kangol-unisex-wool-504-1856955468-p.xhtml?publisherID=TEST",
+            "shortDescription": "The 504 is Kangol's most popular shape. This trendy design is on high demand; a classic that is loved, and compliments many with functional warmth and style year after year."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826972757,
+            "image": {
+                "caption": "Kangol Unisex  Wool Herringbone 504",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177309__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177309__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177309__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826972757?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-wool-herringbone-504-1857177309-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.398,
+            "maximumPrice": 59.95,
+            "maximumPriceString": "$59.95",
+            "minimumPrice": 59.95,
+            "minimumPriceString": "$59.95",
+            "name": "Kangol Unisex  Wool Herringbone 504",
+            "referralUrl": "https://www.shop.com/kangol-unisex-wool-herringbone-504-1857177309-p.xhtml?publisherID=TEST",
+            "shortDescription": "The 504 is Kangol's most popular shape. The Wool Herringbone design is on high demand; a classic that is loved, and compliments many with functional warmth and style year after year."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750879,
+            "image": {
+                "caption": "Kangol Unisex  Lite Felt Player",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955431__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955431__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955431__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750879?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-lite-felt-player-1856955431-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.0,
+            "maximumCashbackString": "$3.00",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.998,
+            "maximumPrice": 99.95,
+            "maximumPriceString": "$99.95",
+            "minimumPrice": 99.95,
+            "minimumPriceString": "$99.95",
+            "name": "Kangol Unisex  Lite Felt Player",
+            "referralUrl": "https://www.shop.com/kangol-unisex-lite-felt-player-1856955431-p.xhtml?publisherID=TEST",
+            "shortDescription": "The LiteFelt Player is a soft, crushable, and water repellant trilby with a tonal fabric band and a short brim that can be worn up or down."
+        },
+        {
+            "brand": "",
+            "id": 1826975247,
+            "image": {
+                "caption": "Scully Women's   B73",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179799__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179799__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179799__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975247?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-b73-1857179799-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.78,
+            "maximumCashbackString": "$3.78",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 5.04,
+            "maximumPrice": 126.0,
+            "maximumPriceString": "$126.00",
+            "minimumPrice": 126.0,
+            "minimumPriceString": "$126.00",
+            "name": "Scully Women's   B73",
+            "referralUrl": "https://www.shop.com/scully-womens-b73-1857179799-p.xhtml?publisherID=TEST",
+            "shortDescription": "This soft leather fringe handbag features a flap-over closure with brass rings and rivets, and a long adjustable wide leather shoulder strap."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750715,
+            "image": {
+                "caption": "Kangol Unisex  504 Wool Earlap",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955267__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955267__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955267__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750715?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-504-wool-earlap-1856955267-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.74,
+            "maximumCashbackString": "$1.74",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.318,
+            "maximumPrice": 57.95,
+            "maximumPriceString": "$57.95",
+            "minimumPrice": 57.95,
+            "minimumPriceString": "$57.95",
+            "name": "Kangol Unisex  504 Wool Earlap",
+            "referralUrl": "https://www.shop.com/kangol-unisex-504-wool-earlap-1856955267-p.xhtml?publisherID=TEST",
+            "shortDescription": "When the Winter tries to penetrate us, maintain your style and warmth in this modern classic. The 504 Wool Earlap is the perfect protection for sensitive ears, and a great compliment to Kangol lovers who want to look great year 'round as well."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826972317,
+            "image": {
+                "caption": "Kangol Unisex  Wool Ushanka",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176869__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176869__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176869__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826972317?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-wool-ushanka-1857176869-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.25,
+            "maximumCashbackString": "$2.25",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.998,
+            "maximumPrice": 74.95,
+            "maximumPriceString": "$74.95",
+            "minimumPrice": 74.95,
+            "minimumPriceString": "$74.95",
+            "name": "Kangol Unisex  Wool Ushanka",
+            "referralUrl": "https://www.shop.com/kangol-unisex-wool-ushanka-1857176869-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Wool Ushanka is inspired by the original Russian trapper-style hat. Constructed of melton wool and faux fur with a satin lining, the Wool Ushanka will keep you toasty in style."
+        },
+        {
+            "brand": "Dyeables",
+            "id": 1827105362,
+            "image": {
+                "caption": "Dyeables Women's   HB250",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857309914__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857309914__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857309914__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1827105362?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/dyeables-womens-hb250-1857309914-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.87,
+            "maximumCashbackString": "$0.87",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.16,
+            "maximumPrice": 29.0,
+            "maximumPriceString": "$29.00",
+            "minimumPrice": 29.0,
+            "minimumPriceString": "$29.00",
+            "name": "Dyeables Women's   HB250",
+            "referralUrl": "https://www.shop.com/dyeables-womens-hb250-1857309914-p.xhtml?publisherID=TEST",
+            "shortDescription": "Glam up your look with this elegant dyeable evening bag with fold over closure and chain strap which can be tucked inside and worn as a clutch."
+        },
+        {
+            "brand": "",
+            "id": 1826975721,
+            "image": {
+                "caption": "Scully Women's   B71",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180273__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180273__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180273__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975721?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-womens-b71-1857180273-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 4.41,
+            "maximumCashbackString": "$4.41",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 5.88,
+            "maximumPrice": 147.0,
+            "maximumPriceString": "$147.00",
+            "minimumPrice": 147.0,
+            "minimumPriceString": "$147.00",
+            "name": "Scully Women's   B71",
+            "referralUrl": "https://www.shop.com/scully-womens-b71-1857180273-p.xhtml?publisherID=TEST",
+            "shortDescription": "This soft leather fringe handbag features a zip top with leather tassels. The full front is treated with rivets and long leather fringe. It has a single shoulder strap in woven leather."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750919,
+            "image": {
+                "caption": "Kangol Unisex  Wool 504",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955471__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955471__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955471__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750919?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-wool-504-1856955471-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.44,
+            "maximumCashbackString": "$1.44",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.92,
+            "maximumPrice": 48.0,
+            "maximumPriceString": "$48.00",
+            "minimumPrice": 47.95,
+            "minimumPriceString": "$47.95",
+            "name": "Kangol Unisex  Wool 504",
+            "referralUrl": "https://www.shop.com/kangol-unisex-wool-504-1856955471-p.xhtml?publisherID=TEST",
+            "shortDescription": "The 504 is Kangol's most popular shape. This trendy design is on high demand; a classic that is loved, and compliments many with functional warmth and style year after year."
+        },
+        {
+            "brand": "",
+            "id": 1826975529,
+            "image": {
+                "caption": "Scully Men's   P-852",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180081__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180081__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180081__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975529?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/scully-mens-p-852-1857180081-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.52,
+            "maximumCashbackString": "$2.52",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.36,
+            "maximumPrice": 84.0,
+            "maximumPriceString": "$84.00",
+            "minimumPrice": 84.0,
+            "minimumPriceString": "$84.00",
+            "name": "Scully Men's   P-852",
+            "referralUrl": "https://www.shop.com/scully-mens-p-852-1857180081-p.xhtml?publisherID=TEST",
+            "shortDescription": "This shirt by Scully Leather features pick stitch yokes and cuffs."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826975369,
+            "image": {
+                "caption": "Kangol Unisex  Tropic Monty",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179921__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179921__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179921__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975369?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-tropic-monty-1857179921-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.23,
+            "maximumCashbackString": "$1.23",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.64,
+            "maximumPrice": 41.0,
+            "maximumPriceString": "$41.00",
+            "minimumPrice": 41.0,
+            "minimumPriceString": "$41.00",
+            "name": "Kangol Unisex  Tropic Monty",
+            "referralUrl": "https://www.shop.com/kangol-unisex-tropic-monty-1857179921-p.xhtml?publisherID=TEST",
+            "shortDescription": "Field Marshal Bernard Law Montgomery (Monty) wore a Kangol Beret as he commanded Allied troops against Axis forces in World War II. This traditional Kangol military beret has made a fashionable transition from the battlefield to the streets."
+        },
+        {
+            "brand": "Kangol",
+            "id": 1826750689,
+            "image": {
+                "caption": "Kangol Unisex  Tropic Casual",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955241__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955241__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856955241__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826750689?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/kangol-unisex-tropic-casual-1856955241-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.398,
+            "maximumPrice": 59.95,
+            "maximumPriceString": "$59.95",
+            "minimumPrice": 59.95,
+            "minimumPriceString": "$59.95",
+            "name": "Kangol Unisex  Tropic Casual",
+            "referralUrl": "https://www.shop.com/kangol-unisex-tropic-casual-1856955241-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Tropic Casual is a version of the original iconic hat that was on the scene when turntablists, rappers and graffiti writers redefined youth culture and forever changed the world. The Tropic yarn means that the hat is both lightweight and..."
+        },
+        {
+            "brand": "sanuk",
+            "id": 1826461427,
+            "image": {
+                "caption": "Sanuk Men's   Vagabond",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665979__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665979__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665979__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826461427?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/sanuk-mens-vagabond-1856665979-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.65,
+            "maximumCashbackString": "$1.65",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.198,
+            "maximumPrice": 54.95,
+            "maximumPriceString": "$54.95",
+            "minimumPrice": 54.95,
+            "minimumPriceString": "$54.95",
+            "name": "Sanuk Men's   Vagabond",
+            "referralUrl": "https://www.shop.com/sanuk-mens-vagabond-1856665979-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Vagabond features a frayed edge, a canvas lining, and a high rebound molded EVA footbed with AEGIS antimicrobial additive. The outsole is Happy U sponge rubber. This shoe is vegan and vegetarian."
+        },
+        {
+            "brand": "",
+            "id": 1826461974,
+            "image": {
+                "caption": "Touch Ups Women's   Connie",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856666526__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856666526__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856666526__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826461974?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/touch-ups-womens-connie-1856666526-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.99,
+            "maximumCashbackString": "$0.99",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.32,
+            "maximumPrice": 33.0,
+            "maximumPriceString": "$33.00",
+            "minimumPrice": 33.0,
+            "minimumPriceString": "$33.00",
+            "name": "Touch Ups Women's   Connie",
+            "referralUrl": "https://www.shop.com/touch-ups-womens-connie-1856666526-p.xhtml?publisherID=TEST",
+            "shortDescription": "Connie is modern elegance. This fabulous purse comes in luxe with a gold or silver chain that can be removed to use purse as a clutch. Asymmetric flap closure adds just enough of a lasting impression. Purse is dyeable to match any color."
+        }
+    ],
+    "sellers": [
+        {
+            "id": "125496",
+            "name": "BOBBI + BRICKA",
+            "productCount": 48854
+        },
+        {
+            "id": "105090",
+            "name": "Tags Weekly",
+            "productCount": 32721
+        },
+        {
+            "id": "121120",
+            "name": "BHFO",
+            "productCount": 29034
+        },
+        {
+            "id": "104162",
+            "name": "UnbeatableSale",
+            "productCount": 19288
+        },
+        {
+            "id": "112119",
+            "name": "Sophia's Style",
+            "productCount": 17841
+        },
+        {
+            "id": "132898",
+            "name": "Phoenix Trading Co",
+            "productCount": 15683
+        },
+        {
+            "id": "113514",
+            "name": "Rennde",
+            "productCount": 13739
+        },
+        {
+            "id": "112122",
+            "name": "PairMySole",
+            "productCount": 7344
+        },
+        {
+            "id": "115188",
+            "name": "Authentic Designer Fashion",
+            "productCount": 6207
+        },
+        {
+            "id": "117597",
+            "name": "Main Merch",
+            "productCount": 4502
+        },
+        {
+            "id": "116476",
+            "name": "Dollar Days",
+            "productCount": 3295
+        },
+        {
+            "id": "102220",
+            "name": "Luxury Divas",
+            "productCount": 1950
+        },
+        {
+            "id": "102234",
+            "name": "BikeSomeWhere.com",
+            "productCount": 1527
+        },
+        {
+            "id": "101327",
+            "name": "Christmas Central",
+            "productCount": 1525
+        },
+        {
+            "id": "127857",
+            "name": "Belt Outlet",
+            "productCount": 1444
+        },
+        {
+            "id": "131584",
+            "name": "White Mark Fashion",
+            "productCount": 1024
+        },
+        {
+            "id": "130675",
+            "name": "SHOES.COM",
+            "productCount": 1008
+        },
+        {
+            "id": "105597",
+            "name": "Seven Times Six",
+            "productCount": 883
+        },
+        {
+            "id": "129403",
+            "name": "SavingsEmpire",
+            "productCount": 838
+        },
+        {
+            "id": "110157",
+            "name": "ShopEddies",
+            "productCount": 769
+        }
+    ]
+}

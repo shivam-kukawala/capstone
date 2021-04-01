@@ -1,0 +1,2683 @@
+{
+    "brands": [
+        {
+            "id": "\"Spring Step\"",
+            "name": "Spring Step",
+            "productCount": 571
+        },
+        {
+            "id": "Propet",
+            "name": "Propet",
+            "productCount": 404
+        },
+        {
+            "id": "Clarks",
+            "name": "Clarks",
+            "productCount": 1361
+        },
+        {
+            "id": "Drew",
+            "name": "Drew",
+            "productCount": 199
+        },
+        {
+            "id": "Rockport",
+            "name": "Rockport",
+            "productCount": 601
+        },
+        {
+            "id": "OTBT",
+            "name": "OTBT",
+            "productCount": 144
+        },
+        {
+            "id": "\"Stacy Adams\"",
+            "name": "Stacy Adams",
+            "productCount": 177
+        },
+        {
+            "id": "Camper",
+            "name": "Camper",
+            "productCount": 314
+        },
+        {
+            "id": "\"Touch Ups\"",
+            "name": "Touch Ups",
+            "productCount": 174
+        },
+        {
+            "id": "\"Walking Cradles\"",
+            "name": "Walking Cradles",
+            "productCount": 263
+        },
+        {
+            "id": "Vionic",
+            "name": "Vionic",
+            "productCount": 237
+        },
+        {
+            "id": "Trotters",
+            "name": "Trotters",
+            "productCount": 243
+        },
+        {
+            "id": "Eastland",
+            "name": "Eastland",
+            "productCount": 125
+        },
+        {
+            "id": "\"Ros Hommerson\"",
+            "name": "Ros Hommerson",
+            "productCount": 125
+        },
+        {
+            "id": "Bellini",
+            "name": "Bellini",
+            "productCount": 111
+        },
+        {
+            "id": "\"David Tate\"",
+            "name": "David Tate",
+            "productCount": 270
+        },
+        {
+            "id": "\"Ralph Lauren\"",
+            "name": "Ralph Lauren",
+            "productCount": 362
+        },
+        {
+            "id": "Aerosoles",
+            "name": "Aerosoles",
+            "productCount": 296
+        },
+        {
+            "id": "\"Easy Street\"",
+            "name": "Easy Street",
+            "productCount": 611
+        },
+        {
+            "id": "Pikolinos",
+            "name": "Pikolinos",
+            "productCount": 116
+        }
+    ],
+    "categories": [
+        {
+            "id": "2-12351463",
+            "name": "Women",
+            "productCount": 35939
+        },
+        {
+            "id": "2-12351390",
+            "name": "Men",
+            "productCount": 13251
+        },
+        {
+            "id": "2-12354640",
+            "name": "Baby & Toddler",
+            "productCount": 1708
+        },
+        {
+            "id": "2-12351327",
+            "name": "Boys",
+            "productCount": 1297
+        },
+        {
+            "id": "2-12351358",
+            "name": "Girls",
+            "productCount": 2105
+        },
+        {
+            "id": "2-12351306",
+            "name": "Accessories",
+            "productCount": 837
+        }
+    ],
+    "numberOfProducts": 55137,
+    "priceRanges": [
+        {
+            "id": "[0.01 TO 30.0]",
+            "maximumPrice": 30.0,
+            "maximumPriceString": "$30.00",
+            "minimumPrice": 0.01,
+            "minimumPriceString": "$0.01",
+            "productCount": 13536
+        },
+        {
+            "id": "[30.01 TO 45.0]",
+            "maximumPrice": 45.0,
+            "maximumPriceString": "$45.00",
+            "minimumPrice": 30.01,
+            "minimumPriceString": "$30.01",
+            "productCount": 12463
+        },
+        {
+            "id": "[45.01 TO 65.0]",
+            "maximumPrice": 65.0,
+            "maximumPriceString": "$65.00",
+            "minimumPrice": 45.01,
+            "minimumPriceString": "$45.01",
+            "productCount": 10643
+        },
+        {
+            "id": "[65.01 TO 100.0]",
+            "maximumPrice": 100.0,
+            "maximumPriceString": "$100.00",
+            "minimumPrice": 65.01,
+            "minimumPriceString": "$65.01",
+            "productCount": 10007
+        },
+        {
+            "id": "[100.01 TO 1500.0]",
+            "maximumPrice": 1500.0,
+            "maximumPriceString": "$1,500.00",
+            "minimumPrice": 100.01,
+            "minimumPriceString": "$100.01",
+            "productCount": 8941
+        }
+    ],
+    "products": [
+        {
+            "brand": "Reef",
+            "id": 1839475355,
+            "image": {
+                "caption": "Reef  Men's A2xmv Reef Mulligan Ii Green M",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/260000/267800/267870/products/1869679905__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/260000/267800/267870/products/1869679905__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/260000/267800/267870/products/1869679905__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1839475355?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/reef-mens-a2xmv-reef-mulligan-ii-green-m-1869679905-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 4.67,
+            "maximumCashbackString": "$4.67",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.116,
+            "maximumPrice": 77.9,
+            "maximumPriceString": "$77.90",
+            "minimumPrice": 77.9,
+            "minimumPriceString": "$77.90",
+            "name": "Reef  Men's A2xmv Reef Mulligan Ii Green M",
+            "referralUrl": "https://www.shop.com/reef-mens-a2xmv-reef-mulligan-ii-green-m-1869679905-p.xhtml?publisherID=TEST",
+            "shortDescription": "Mind if we play through? The Mulligan is a Reef mens sandal inspired by days on the links. It features synthetic golf ball textured upper with Reef tee tee holder and 19th hole flag. Polyester woven liner bottle opener and synthetic fairway footbed..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826978327,
+            "image": {
+                "caption": "Clarks Women's   Raisie Arlie Loafer",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182879__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182879__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182879__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826978327?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-raisie-arlie-loafer-1857182879-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.05,
+            "maximumCashbackString": "$1.05",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.0533,
+            "maximumPrice": 35.11,
+            "maximumPriceString": "$35.11",
+            "minimumPrice": 32.21,
+            "minimumPriceString": "$32.21",
+            "name": "Clarks Women's   Raisie Arlie Loafer",
+            "referralUrl": "https://www.shop.com/clarks-womens-raisie-arlie-loafer-1857182879-p.xhtml?publisherID=TEST",
+            "shortDescription": "For all-day comfort, wear the Clarks Raisie Arlie Loafer. With an OrthoLite footbed and the Cushion Soft technology, this breathable loafer provide supreme comfort and shock-absorption for all-day wear. Part of the Clarks Collection Cushion Soft..."
+        },
+        {
+            "brand": "adidas",
+            "id": 1826976055,
+            "image": {
+                "caption": "adidas Men's   Kaptir Running Shoe",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180607__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180607__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857180607__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826976055?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/adidas-mens-kaptir-running-shoe-1857180607-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.67,
+            "maximumCashbackString": "$1.67",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.6665,
+            "maximumPrice": 55.55,
+            "maximumPriceString": "$55.55",
+            "minimumPrice": 55.55,
+            "minimumPriceString": "$55.55",
+            "name": "adidas Men's   Kaptir Running Shoe",
+            "referralUrl": "https://www.shop.com/adidas-mens-kaptir-running-shoe-1857180607-p.xhtml?publisherID=TEST",
+            "shortDescription": "Explore urban environments in modern style with the adidas Kaptir Running Shoe. This sneaker has a breathable upper with sleek details riding on a sculpted midsole. The ultra-soft cushioning and a sock-like fit will help you keep up the pace on city..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826978127,
+            "image": {
+                "caption": "Clarks Women's   Cheyn Lindie Wide Calf Harness Boot",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182679__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182679__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182679__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826978127?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-cheyn-lindie-wide-calf-harness-boot-1857182679-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.45,
+            "maximumCashbackString": "$2.45",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.4513,
+            "maximumPrice": 81.71,
+            "maximumPriceString": "$81.71",
+            "minimumPrice": 74.96,
+            "minimumPriceString": "$74.96",
+            "name": "Clarks Women's   Cheyn Lindie Wide Calf Harness Boot",
+            "referralUrl": "https://www.shop.com/clarks-womens-cheyn-lindie-wide-calf-harness-boot-1857182679-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Clarks Cheyn Lindie Wide Calf Harness Boot will be a classic addition to your closet. This boot is designed with OrthoLite footbed that ensures maximum cushioning, breathability, and moisture-wicking comfort. OrthoLite footbed Moisture-wicking..."
+        },
+        {
+            "brand": "Crevo",
+            "id": 1826522059,
+            "image": {
+                "caption": "Crevo Men's   Boardwalk",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726611__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726611__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726611__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826522059?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/crevo-mens-boardwalk-1856726611-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.02,
+            "maximumCashbackString": "$2.02",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.0238,
+            "maximumPrice": 67.46,
+            "maximumPriceString": "$67.46",
+            "minimumPrice": 67.46,
+            "minimumPriceString": "$67.46",
+            "name": "Crevo Men's   Boardwalk",
+            "referralUrl": "https://www.shop.com/crevo-mens-boardwalk-1856726611-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Boardwalk Boot features a leather upper, wingtip design with decorative perforations and serrated edging, lace closure, memory foam heel-cup sock for added comfort and durable saw tooth slip-resistant EVA sole."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826522416,
+            "image": {
+                "caption": "Clarks Women's   Leisa Cacti",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726968__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726968__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726968__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826522416?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-leisa-cacti-1856726968-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.7988,
+            "maximumPrice": 59.96,
+            "maximumPriceString": "$59.96",
+            "minimumPrice": 58.46,
+            "minimumPriceString": "$58.46",
+            "name": "Clarks Women's   Leisa Cacti",
+            "referralUrl": "https://www.shop.com/clarks-womens-leisa-cacti-1856726968-p.xhtml?publisherID=TEST",
+            "shortDescription": "For effortless style, slip on the Leisa Cacti Sandal by Clarks. The Leisa Cacti features three hook and loop closures for a personal fit and easy on/off wear. The open-toe sandal provides a lightweight EVA outsole that supports and cushions the foot..."
+        },
+        {
+            "brand": "BearPaw",
+            "id": 1826976925,
+            "image": {
+                "caption": "Bearpaw Men's   Brock Solids Waterproof Hiking Boot",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181477__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181477__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181477__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826976925?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/bearpaw-mens-brock-solids-waterproof-hiking-boot-1857181477-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.7985,
+            "maximumPrice": 59.95,
+            "maximumPriceString": "$59.95",
+            "minimumPrice": 59.95,
+            "minimumPriceString": "$59.95",
+            "name": "Bearpaw Men's   Brock Solids Waterproof Hiking Boot",
+            "referralUrl": "https://www.shop.com/bearpaw-mens-brock-solids-waterproof-hiking-boot-1857181477-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Bearpaw Brock Solids Waterproof Hiking Boot is equipped with a waterproof suede and nylon upper. The full-bootie construction ensures a snug and secure fit. The memory foam insole and EVA midsole provides enough cushioning and support for all-day..."
+        },
+        {
+            "brand": "ASICS",
+            "id": 1826460937,
+            "image": {
+                "caption": "ASICS Women's   GEL-Contend 6 Running Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665489__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665489__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665489__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460937?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/asics-womens-gel-contend-6-running-sneaker-1856665489-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.3476,
+            "maximumPrice": 44.92,
+            "maximumPriceString": "$44.92",
+            "minimumPrice": 44.92,
+            "minimumPriceString": "$44.92",
+            "name": "ASICS Women's   GEL-Contend 6 Running Sneaker",
+            "referralUrl": "https://www.shop.com/asics-womens-gel-contend-6-running-sneaker-1856665489-p.xhtml?publisherID=TEST",
+            "shortDescription": "Stay on track to hit your training targets wearing the ASICS Gel-Contend 6 Running Sneaker. Featuring the rearfoot GEL technology, this sneaker for women provides excellent impact absorption. The AMPLIFOAM midsole delivers enhanced flexibility and..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826978541,
+            "image": {
+                "caption": "Clarks Women's   Sillian Tana Ankle Boot",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183093__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183093__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183093__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826978541?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-sillian-tana-ankle-boot-1857183093-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.16,
+            "maximumCashbackString": "$2.16",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.1588,
+            "maximumPrice": 71.96,
+            "maximumPriceString": "$71.96",
+            "minimumPrice": 71.96,
+            "minimumPriceString": "$71.96",
+            "name": "Clarks Women's   Sillian Tana Ankle Boot",
+            "referralUrl": "https://www.shop.com/clarks-womens-sillian-tana-ankle-boot-1857183093-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Clarks Sillian Tana Ankle Boot will become a staple in your casual wardrobe. This low-heel ankle boot features a riptape closure at the top along with a hidden side zipper for easy on and off, and a removable OrthoLite footbed with Cushion Soft..."
+        },
+        {
+            "brand": "Avia",
+            "id": 1826461276,
+            "image": {
+                "caption": "Avia Men's   Avi-Verge Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665828__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665828__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665828__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826461276?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/avia-mens-avi-verge-sneaker-1856665828-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.99,
+            "maximumCashbackString": "$0.99",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.9885,
+            "maximumPrice": 32.95,
+            "maximumPriceString": "$32.95",
+            "minimumPrice": 32.95,
+            "minimumPriceString": "$32.95",
+            "name": "Avia Men's   Avi-Verge Sneaker",
+            "referralUrl": "https://www.shop.com/avia-mens-avi-verge-sneaker-1856665828-p.xhtml?publisherID=TEST",
+            "shortDescription": "Your jog will be fun and comfortable wearing the Avia Avi-Verge Sneaker. This csneaker features a memory foam footbed that ensures cushioning and shock-absorption. Memory foam footbed Shock-absorption."
+        },
+        {
+            "brand": "Free People",
+            "id": 1826978202,
+            "image": {
+                "caption": "Free People Women's   In the Loop Woven Bootie",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182754__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182754__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182754__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826978202?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/free-people-womens-in-the-loop-woven-bootie-1857182754-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.04,
+            "maximumCashbackString": "$3.04",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.0363,
+            "maximumPrice": 101.21,
+            "maximumPriceString": "$101.21",
+            "minimumPrice": 98.06,
+            "minimumPriceString": "$98.06",
+            "name": "Free People Women's   In the Loop Woven Bootie",
+            "referralUrl": "https://www.shop.com/free-people-womens-in-the-loop-woven-bootie-1857182754-p.xhtml?publisherID=TEST",
+            "shortDescription": "Inspired by vintage woven boots in a fun, western-like shape, the Free People In the Loop Woven Bootie is a leather boot with snake embossed toe cap and heel. Western inspired Leather sole."
+        },
+        {
+            "brand": "Aerosoles",
+            "id": 1826460986,
+            "image": {
+                "caption": "Aerosoles Women's   Binocular Wedge Boot",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665538__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665538__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665538__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460986?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/aerosoles-womens-binocular-wedge-boot-1856665538-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.3488,
+            "maximumPrice": 44.96,
+            "maximumPriceString": "$44.96",
+            "minimumPrice": 44.96,
+            "minimumPriceString": "$44.96",
+            "name": "Aerosoles Women's   Binocular Wedge Boot",
+            "referralUrl": "https://www.shop.com/aerosoles-womens-binocular-wedge-boot-1856665538-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Aerosoles Binocular Wedge Boot is a splendid tall boot that will make you yearn for colder weather. EXTENDED CALF technology features two zippers tthat extend the shaft an extra two inches. HEEL REST technology makes the feel that much more..."
+        },
+        {
+            "brand": "Dunham",
+            "id": 1826979092,
+            "image": {
+                "caption": "Dunham Men's   Midland Service Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183644__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183644__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183644__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826979092?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/dunham-mens-midland-service-sneaker-1857183644-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.9,
+            "maximumCashbackString": "$3.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.8985,
+            "maximumPrice": 129.95,
+            "maximumPriceString": "$129.95",
+            "minimumPrice": 129.95,
+            "minimumPriceString": "$129.95",
+            "name": "Dunham Men's   Midland Service Sneaker",
+            "referralUrl": "https://www.shop.com/dunham-mens-midland-service-sneaker-1857183644-p.xhtml?publisherID=TEST",
+            "shortDescription": "Get the job done in the Dunham Midland Service Sneaker. These work shoes, perfect for people on their feet all day, feature Hydro-Shield waterproof upper, and a slip-resistant rubber outsole that meets ASTM F2913-11 in Dry, Wet, Oil, Oil/Wet..."
+        },
+        {
+            "brand": "Altra",
+            "id": 1826460592,
+            "image": {
+                "caption": "Altra Footwear Women's   Torin 4 Running Shoe",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665144__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665144__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665144__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460592?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/altra-footwear-womens-torin-4-running-shoe-1856665144-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.6,
+            "maximumCashbackString": "$3.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.5985,
+            "maximumPrice": 119.95,
+            "maximumPriceString": "$119.95",
+            "minimumPrice": 119.95,
+            "minimumPriceString": "$119.95",
+            "name": "Altra Footwear Women's   Torin 4 Running Shoe",
+            "referralUrl": "https://www.shop.com/altra-footwear-womens-torin-4-running-shoe-1856665144-p.xhtml?publisherID=TEST",
+            "shortDescription": "The fan-favorite Torin has been fine-tuned for the racecourse in the Women's Altra Footwear Torin 4 Running Shoe. In this model Altra has replaced the Strobel layer with the Altra Quantic midsole, resulting in 2mm less cushion/height than in the Torin..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826980135,
+            "image": {
+                "caption": "Clarks Women's   Sharon Noel Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857184687__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857184687__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857184687__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826980135?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-sharon-noel-sneaker-1857184687-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.02,
+            "maximumCashbackString": "$2.02",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.0238,
+            "maximumPrice": 67.46,
+            "maximumPriceString": "$67.46",
+            "minimumPrice": 47.96,
+            "minimumPriceString": "$47.96",
+            "name": "Clarks Women's   Sharon Noel Sneaker",
+            "referralUrl": "https://www.shop.com/clarks-womens-sharon-noel-sneaker-1857184687-p.xhtml?publisherID=TEST",
+            "shortDescription": "As stylish as it is comfortable, the Clarks Sharon Noel Sneaker will be an ideal update to your casual closet. Featuring an OrthoLite footbed with the Cushion Soft padding and EVA outsole, this breathable sneaker offer supreme comfort for all-day..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826974988,
+            "image": {
+                "caption": "Clarks Women's   Cheyn Madi Monkstrap",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179540__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179540__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179540__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826974988?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-cheyn-madi-monkstrap-1857179540-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.69,
+            "maximumCashbackString": "$1.69",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.6863,
+            "maximumPrice": 56.21,
+            "maximumPriceString": "$56.21",
+            "minimumPrice": 48.71,
+            "minimumPriceString": "$48.71",
+            "name": "Clarks Women's   Cheyn Madi Monkstrap",
+            "referralUrl": "https://www.shop.com/clarks-womens-cheyn-madi-monkstrap-1857179540-p.xhtml?publisherID=TEST",
+            "shortDescription": "Take your casual look up a notch with the Clarks Cheyn Madi Monkstrap. Part of the Clarks Collection, this versatile sneaker features the Cushion Soft technology with an OrthoLite footbed for breathability, moisture-wicking comfort, and shock..."
+        },
+        {
+            "brand": "Aerosoles",
+            "id": 1826460680,
+            "image": {
+                "caption": "Aerosoles Women's   Lewis Flat Sandal",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665232__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665232__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665232__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460680?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/aerosoles-womens-lewis-flat-sandal-1856665232-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.7988,
+            "maximumPrice": 59.96,
+            "maximumPriceString": "$59.96",
+            "minimumPrice": 59.96,
+            "minimumPriceString": "$59.96",
+            "name": "Aerosoles Women's   Lewis Flat Sandal",
+            "referralUrl": "https://www.shop.com/aerosoles-womens-lewis-flat-sandal-1856665232-p.xhtml?publisherID=TEST",
+            "shortDescription": "The versatile Aerosoles Lewis Flat Sandal is perfect for weekends when you want something comfy enough for all-day casual wear, but dressier than a sneaker. Ready to earn a place in your weekly shoe rotation, this minimal sandal flaunts a simple..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826978177,
+            "image": {
+                "caption": "Clarks Women's   Jillian Nina Wedge Gladiator Sandal",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182729__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182729__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182729__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826978177?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-jillian-nina-wedge-gladiator-sandal-1857182729-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.3488,
+            "maximumPrice": 44.96,
+            "maximumPriceString": "$44.96",
+            "minimumPrice": 44.96,
+            "minimumPriceString": "$44.96",
+            "name": "Clarks Women's   Jillian Nina Wedge Gladiator Sandal",
+            "referralUrl": "https://www.shop.com/clarks-womens-jillian-nina-wedge-gladiator-sandal-1857182729-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Clarks Jillian Nina Wedge Gladiator Sandal will be a versatile pick and pair well with dresses or denim outfits. This sandal features an OrthoLite footbed that ensures moisture management, cushioning, and odor control. Part of the Clarks..."
+        },
+        {
+            "brand": "Isotoner",
+            "id": 1826522315,
+            "image": {
+                "caption": "Isotoner Women's   Microterry Satin X-Slide w/Memory Foam",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726867__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726867__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726867__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826522315?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/isotoner-womens-microterry-satin-x-slide-wmemory-foam-1856726867-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.56,
+            "maximumCashbackString": "$0.56",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.5613,
+            "maximumPrice": 18.71,
+            "maximumPriceString": "$18.71",
+            "minimumPrice": 18.71,
+            "minimumPriceString": "$18.71",
+            "name": "Isotoner Women's   Microterry Satin X-Slide w/Memory Foam",
+            "referralUrl": "https://www.shop.com/isotoner-womens-microterry-satin-x-slide-wmemory-foam-1856726867-p.xhtml?publisherID=TEST",
+            "shortDescription": "Treat your feet to a pretty, feminine slipper that cushions with a full layer of memory Foam plus Eva heel cushion for shock absorption. Machine Washable."
+        },
+        {
+            "brand": "White Mountain",
+            "id": 1826460806,
+            "image": {
+                "caption": "White Mountain Women's   Tivia Snow Boot",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665358__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665358__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665358__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460806?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/white-mountain-womens-tivia-snow-boot-1856665358-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.3488,
+            "maximumPrice": 44.96,
+            "maximumPriceString": "$44.96",
+            "minimumPrice": 44.96,
+            "minimumPriceString": "$44.96",
+            "name": "White Mountain Women's   Tivia Snow Boot",
+            "referralUrl": "https://www.shop.com/white-mountain-womens-tivia-snow-boot-1856665358-p.xhtml?publisherID=TEST",
+            "shortDescription": "Tivia is a warm and stylish fully water resistant snow boot. Stylish sweater fabric panel and lace up closure at back adds extra charm. Pull on construction Faux fur lined Lace up back closure Fully water resistant Aggressive sole for traction."
+        },
+        {
+            "brand": "Dearfoams",
+            "id": 1826977583,
+            "image": {
+                "caption": "Dearfoams Women's   Mama Bear Plaid Clog Slipper",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182135__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182135__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182135__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826977583?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/dearfoams-womens-mama-bear-plaid-clog-slipper-1857182135-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.08,
+            "maximumCashbackString": "$1.08",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.0785,
+            "maximumPrice": 35.95,
+            "maximumPriceString": "$35.95",
+            "minimumPrice": 19.95,
+            "minimumPriceString": "$19.95",
+            "name": "Dearfoams Women's   Mama Bear Plaid Clog Slipper",
+            "referralUrl": "https://www.shop.com/dearfoams-womens-mama-bear-plaid-clog-slipper-1857182135-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Dearfoams Mama Bear Plaid Clog Slipper will be a charming pick. This slipper features a multi-density cushioned insole with memory foam that offers cloud-like support throughout the day. Mama Bear applique detail Multi-density cushioned insole..."
+        },
+        {
+            "brand": "Bella Vita",
+            "id": 1826459685,
+            "image": {
+                "caption": "Bella Vita Women's   Imo-Italy Slide Sandal",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664237__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664237__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664237__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826459685?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/bella-vita-womens-imo-italy-slide-sandal-1856664237-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.7988,
+            "maximumPrice": 59.96,
+            "maximumPriceString": "$59.96",
+            "minimumPrice": 59.96,
+            "minimumPriceString": "$59.96",
+            "name": "Bella Vita Women's   Imo-Italy Slide Sandal",
+            "referralUrl": "https://www.shop.com/bella-vita-womens-imo-italy-slide-sandal-1856664237-p.xhtml?publisherID=TEST",
+            "shortDescription": "With a timeless design and a cushioned insole, Bella Vita's Imo-Italy Slide Sandal is a go-to favorite for warm weather days. Double strap Cushioned padded insole."
+        },
+        {
+            "brand": "Isotoner",
+            "id": 1826973740,
+            "image": {
+                "caption": "Isotoner Women's   Space Knit Andrea Slide Slipper",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178292__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178292__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178292__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826973740?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/isotoner-womens-space-knit-andrea-slide-slipper-1857178292-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.58,
+            "maximumCashbackString": "$0.58",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.5838,
+            "maximumPrice": 19.46,
+            "maximumPriceString": "$19.46",
+            "minimumPrice": 19.46,
+            "minimumPriceString": "$19.46",
+            "name": "Isotoner Women's   Space Knit Andrea Slide Slipper",
+            "referralUrl": "https://www.shop.com/isotoner-womens-space-knit-andrea-slide-slipper-1857178292-p.xhtml?publisherID=TEST",
+            "shortDescription": "Step into the ultimate luxurious softness and comfort with Isotoner Space Knit Andrea Slide Slipper. The soft microterry surrounds your feet for the ultimate luxurious comfort. Breathable, moisture-wicking SmartDRI keeps feet cool and dry. Easily..."
+        },
+        {
+            "brand": "Fila",
+            "id": 1826521997,
+            "image": {
+                "caption": "Fila Men's   Exchange 2K10",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726549__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726549__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856726549__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826521997?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/fila-mens-exchange-2k10-1856726549-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.9,
+            "maximumCashbackString": "$0.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.8988,
+            "maximumPrice": 29.96,
+            "maximumPriceString": "$29.96",
+            "minimumPrice": 29.96,
+            "minimumPriceString": "$29.96",
+            "name": "Fila Men's   Exchange 2K10",
+            "referralUrl": "https://www.shop.com/fila-mens-exchange-2k10-1856726549-p.xhtml?publisherID=TEST",
+            "shortDescription": "This sneaker has a leather and synthetic upper with a lace up closure, a fabric lining, an EVA insole, and a rubber outsole."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826976854,
+            "image": {
+                "caption": "Clarks Women's   Abigail Daisy Wedge Sandal",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181406__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181406__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181406__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826976854?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-abigail-daisy-wedge-sandal-1857181406-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.9,
+            "maximumCashbackString": "$0.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.8988,
+            "maximumPrice": 29.96,
+            "maximumPriceString": "$29.96",
+            "minimumPrice": 29.96,
+            "minimumPriceString": "$29.96",
+            "name": "Clarks Women's   Abigail Daisy Wedge Sandal",
+            "referralUrl": "https://www.shop.com/clarks-womens-abigail-daisy-wedge-sandal-1857181406-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Clarks Abigail Daisy Wedge Strappy Sandal is a wardrobe essential for any fashionista. This sandal features a moisture-wicking OrthoLite footbed that provides your feet with the ultimate underfoot comfort. Part of the Clarks Collection OrthoLite..."
+        },
+        {
+            "brand": "Trotters",
+            "id": 1826463980,
+            "image": {
+                "caption": "Trotters Women's   Penelope",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856668532__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856668532__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856668532__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826463980?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/trotters-womens-penelope-1856668532-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.51,
+            "maximumCashbackString": "$1.51",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.5063,
+            "maximumPrice": 50.21,
+            "maximumPriceString": "$50.21",
+            "minimumPrice": 50.21,
+            "minimumPriceString": "$50.21",
+            "name": "Trotters Women's   Penelope",
+            "referralUrl": "https://www.shop.com/trotters-womens-penelope-1856668532-p.xhtml?publisherID=TEST",
+            "shortDescription": "Penelope is a rounded toe pump with a 2 1/4\" heel that looks professional for work and keeps your feet comfortable."
+        },
+        {
+            "brand": "Aerosoles",
+            "id": 1826459387,
+            "image": {
+                "caption": "Aerosoles Women's   Step It Up Ankle Boot",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663939__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663939__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663939__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826459387?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/aerosoles-womens-step-it-up-ankle-boot-1856663939-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.35,
+            "maximumCashbackString": "$1.35",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.3488,
+            "maximumPrice": 44.96,
+            "maximumPriceString": "$44.96",
+            "minimumPrice": 44.96,
+            "minimumPriceString": "$44.96",
+            "name": "Aerosoles Women's   Step It Up Ankle Boot",
+            "referralUrl": "https://www.shop.com/aerosoles-womens-step-it-up-ankle-boot-1856663939-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Aerosoles Step It Up Ankle Boot is the ultimate wardrobe staple that goes with anything in your closet. The versatility of this bootie derives from its simplicity. Its combination of moto and riding boot style makes it the perfect go-to shoe. The..."
+        },
+        {
+            "brand": "Old Friend",
+            "id": 1826975195,
+            "image": {
+                "caption": "Old Friend Women's   Scuff Slipper",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179747__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179747__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857179747__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826975195?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/old-friend-womens-scuff-slipper-1857179747-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.8,
+            "maximumCashbackString": "$1.80",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.7985,
+            "maximumPrice": 59.95,
+            "maximumPriceString": "$59.95",
+            "minimumPrice": 59.95,
+            "minimumPriceString": "$59.95",
+            "name": "Old Friend Women's   Scuff Slipper",
+            "referralUrl": "https://www.shop.com/old-friend-womens-scuff-slipper-1857179747-p.xhtml?publisherID=TEST",
+            "shortDescription": "Slip into comfort with the Old Friend Scuff Slipper for women. This easy-going slipper has a thick but lightweight sole and cushioning midsole. The Scuff is extra plush for superior comfort, and a triple-foam TPR sole that provides long and..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826973747,
+            "image": {
+                "caption": "Clarks Men's   Raharto Plain Toe Oxford",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178299__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178299__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178299__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826973747?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-mens-raharto-plain-toe-oxford-1857178299-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.95,
+            "maximumCashbackString": "$1.95",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.9485,
+            "maximumPrice": 64.95,
+            "maximumPriceString": "$64.95",
+            "minimumPrice": 58.82,
+            "minimumPriceString": "$58.82",
+            "name": "Clarks Men's   Raharto Plain Toe Oxford",
+            "referralUrl": "https://www.shop.com/clarks-mens-raharto-plain-toe-oxford-1857178299-p.xhtml?publisherID=TEST",
+            "shortDescription": "Leave a lasting impression on your first day at work, with the Clarks Raharto Plain Toe Oxford. Offering a fusion of style and comfort, this lace-up derby shoe from the Clarks Collection features the Cushion Soft technology with an OrthoLite EVA..."
+        },
+        {
+            "brand": "ASICS",
+            "id": 1826460365,
+            "image": {
+                "caption": "ASICS Men's   GEL-Excite 7 Running Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664917__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664917__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664917__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460365?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/asics-mens-gel-excite-7-running-sneaker-1856664917-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.59,
+            "maximumCashbackString": "$1.59",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.5927,
+            "maximumPrice": 53.09,
+            "maximumPriceString": "$53.09",
+            "minimumPrice": 53.09,
+            "minimumPriceString": "$53.09",
+            "name": "ASICS Men's   GEL-Excite 7 Running Sneaker",
+            "referralUrl": "https://www.shop.com/asics-mens-gel-excite-7-running-sneaker-1856664917-p.xhtml?publisherID=TEST",
+            "shortDescription": "The ASICS Gel-Excite 7 Running Sneaker is a perfect pick for those who want to stay active. Featuring the GEL technology, this sneaker for men provides an improved fit in the forefoot to generate prolonged comfort no matter the distance. The AMPLIFOAM..."
+        },
+        {
+            "brand": "Eastland",
+            "id": 1826522833,
+            "image": {
+                "caption": "Eastland Women's   Classic II",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856727385__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856727385__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856727385__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826522833?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/eastland-womens-classic-ii-1856727385-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.7,
+            "maximumCashbackString": "$2.70",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.7,
+            "maximumPrice": 90.0,
+            "maximumPriceString": "$90.00",
+            "minimumPrice": 59.96,
+            "minimumPriceString": "$59.96",
+            "name": "Eastland Women's   Classic II",
+            "referralUrl": "https://www.shop.com/eastland-womens-classic-ii-1856727385-p.xhtml?publisherID=TEST",
+            "shortDescription": "It doesn't get more classic than this timeless Eastland penny loafer. The polished upper offers no-fuss care with a 3/4\" padded footbed for all-day wear. It's also hand-sewn from one piece of leather wrapping around your foot, for seamless comfort,..."
+        },
+        {
+            "brand": "Johnston & Murphy",
+            "id": 1827062893,
+            "image": {
+                "caption": "Johnston & Murphy Men's   McGuffey Woven Slip-On",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857267445__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857267445__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857267445__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1827062893?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/johnston-and-murphy-mens-mcguffey-woven-slip-on-1857267445-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 4.17,
+            "maximumCashbackString": "$4.17",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 4.1685,
+            "maximumPrice": 138.95,
+            "maximumPriceString": "$138.95",
+            "minimumPrice": 104.95,
+            "minimumPriceString": "$104.95",
+            "name": "Johnston & Murphy Men's   McGuffey Woven Slip-On",
+            "referralUrl": "https://www.shop.com/johnston-and-murphy-mens-mcguffey-woven-slip-on-1857267445-p.xhtml?publisherID=TEST",
+            "shortDescription": "With its unique woven design and modern styling, the Johnston & Murphy McGuffey Woven Slip-On is sure to be your new favorite sneaker. Lightweight, athletic comfort construction Skeletal leather lining Padded sheepskin leather/performance..."
+        },
+        {
+            "brand": "White Mountain",
+            "id": 1826459350,
+            "image": {
+                "caption": "White Mountain Women's   Hayleigh Toe Loop Sandal",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663902__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663902__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663902__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826459350?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/white-mountain-womens-hayleigh-toe-loop-sandal-1856663902-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.01,
+            "maximumCashbackString": "$1.01",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.0113,
+            "maximumPrice": 33.71,
+            "maximumPriceString": "$33.71",
+            "minimumPrice": 29.96,
+            "minimumPriceString": "$29.96",
+            "name": "White Mountain Women's   Hayleigh Toe Loop Sandal",
+            "referralUrl": "https://www.shop.com/white-mountain-womens-hayleigh-toe-loop-sandal-1856663902-p.xhtml?publisherID=TEST",
+            "shortDescription": "The White Mountain Hayleigh Toe Loop Sandal gives the classic footbed sandal an iconic makeover with interwoven braids and an antique buckle on the ankle strap. The molded, genuine cork blended footbed with microfiber sock cover provides some serious..."
+        },
+        {
+            "brand": "Johnston & Murphy",
+            "id": 1826972387,
+            "image": {
+                "caption": "Johnston & Murphy Men's   Woodard Shoe Tree",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176939__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176939__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176939__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826972387?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/johnston-and-murphy-mens-woodard-shoe-tree-1857176939-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.6,
+            "maximumCashbackString": "$0.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.6012,
+            "maximumPrice": 20.04,
+            "maximumPriceString": "$20.04",
+            "minimumPrice": 20.04,
+            "minimumPriceString": "$20.04",
+            "name": "Johnston & Murphy Men's   Woodard Shoe Tree",
+            "referralUrl": "https://www.shop.com/johnston-and-murphy-mens-woodard-shoe-tree-1857176939-p.xhtml?publisherID=TEST",
+            "shortDescription": "It just makes good sense to protect your investment and prolong the life of your shoes. Cedar trees protect the leather, fabric, stitching, and soles of your shoes by absorbing moisture, acid and salts. Cedar trees smooth out linings and insoles..."
+        },
+        {
+            "brand": "Propet",
+            "id": 1826459369,
+            "image": {
+                "caption": "Propet Men's   One Lightweight Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663921__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663921__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663921__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826459369?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/propet-mens-one-lightweight-sneaker-1856663921-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.85,
+            "maximumCashbackString": "$2.85",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.8485,
+            "maximumPrice": 94.95,
+            "maximumPriceString": "$94.95",
+            "minimumPrice": 94.95,
+            "minimumPriceString": "$94.95",
+            "name": "Propet Men's   One Lightweight Sneaker",
+            "referralUrl": "https://www.shop.com/propet-mens-one-lightweight-sneaker-1856663921-p.xhtml?publisherID=TEST",
+            "shortDescription": "Cover miles with your foot wrapped in the comfort of the Propet One Lightweight Sneaker. Thanks to the mesh construction, this orthotic-accommodating men's shoe enables your foot to breathe well throughout the day. A light EVA midsole with rubber..."
+        },
+        {
+            "brand": "Vionic",
+            "id": 1826461058,
+            "image": {
+                "caption": "Vionic Women's   Cindy Toe Loop Sandal",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665610__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665610__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665610__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826461058?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/vionic-womens-cindy-toe-loop-sandal-1856665610-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.6,
+            "maximumCashbackString": "$3.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.5985,
+            "maximumPrice": 119.95,
+            "maximumPriceString": "$119.95",
+            "minimumPrice": 119.95,
+            "minimumPriceString": "$119.95",
+            "name": "Vionic Women's   Cindy Toe Loop Sandal",
+            "referralUrl": "https://www.shop.com/vionic-womens-cindy-toe-loop-sandal-1856665610-p.xhtml?publisherID=TEST",
+            "shortDescription": "Slip into the Vionic Cindy Toe Loop Sandal for a comfortable and chic look. This sandal features Orthaheel technology with a biomechanical footbed for support and comfort. Clinically shown to provide temporary heel pain relief comparable to an..."
+        },
+        {
+            "brand": "OrthoFeet",
+            "id": 1826972140,
+            "image": {
+                "caption": "Orthofeet Women's   Acadia",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176692__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176692__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857176692__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826972140?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/orthofeet-womens-acadia-1857176692-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.9,
+            "maximumCashbackString": "$3.90",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.8985,
+            "maximumPrice": 129.95,
+            "maximumPriceString": "$129.95",
+            "minimumPrice": 129.95,
+            "minimumPriceString": "$129.95",
+            "name": "Orthofeet Women's   Acadia",
+            "referralUrl": "https://www.shop.com/orthofeet-womens-acadia-1857176692-p.xhtml?publisherID=TEST",
+            "shortDescription": "Enjoy exceptional comfort and an ultimate fit with Orthofeet's Women's Easy-Grip Shoes Handsome, non-binding design offers ultimate comfort and protection. Orthofeet crafts these unique shoes with advanced athletic shoes technology, offering..."
+        },
+        {
+            "brand": "Trotters",
+            "id": 1826462729,
+            "image": {
+                "caption": "Trotters Women's   Jenn Laser Slip-On",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667281__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667281__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856667281__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826462729?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/trotters-womens-jenn-laser-slip-on-1856667281-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.3,
+            "maximumCashbackString": "$1.30",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.3038,
+            "maximumPrice": 43.46,
+            "maximumPriceString": "$43.46",
+            "minimumPrice": 43.46,
+            "minimumPriceString": "$43.46",
+            "name": "Trotters Women's   Jenn Laser Slip-On",
+            "referralUrl": "https://www.shop.com/trotters-womens-jenn-laser-slip-on-1856667281-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Jenn Laser Slip On by Trotters is a modern take on a classic. Its vamp bears intricate cutouts for a stylish look. The sides have gore panels that offer a snug fit. It is equipped with a polyurethane sole and a low heel. This pair has a non-woven..."
+        },
+        {
+            "brand": "adidas",
+            "id": 1826978425,
+            "image": {
+                "caption": "adidas Men's   Advantage Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182977__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182977__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857182977__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826978425?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/adidas-mens-advantage-sneaker-1857182977-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.47,
+            "maximumCashbackString": "$1.47",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.4703,
+            "maximumPrice": 49.01,
+            "maximumPriceString": "$49.01",
+            "minimumPrice": 49.01,
+            "minimumPriceString": "$49.01",
+            "name": "adidas Men's   Advantage Sneaker",
+            "referralUrl": "https://www.shop.com/adidas-mens-advantage-sneaker-1857182977-p.xhtml?publisherID=TEST",
+            "shortDescription": "The adidas Advantage Sneaker shows off a clean look for a stripped-down sports style. This tennis-inspired shoe features perforated 3-Stripes and is designed with a cushioned sockliner for added comfort. Regular fit Lace closure Rubber outsole..."
+        },
+        {
+            "brand": "adidas",
+            "id": 1826979962,
+            "image": {
+                "caption": "adidas Men's   Grand Court Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857184514__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857184514__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857184514__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826979962?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/adidas-mens-grand-court-sneaker-1857184514-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.95,
+            "maximumCashbackString": "$1.95",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.9485,
+            "maximumPrice": 64.95,
+            "maximumPriceString": "$64.95",
+            "minimumPrice": 44.96,
+            "minimumPriceString": "$44.96",
+            "name": "adidas Men's   Grand Court Sneaker",
+            "referralUrl": "https://www.shop.com/adidas-mens-grand-court-sneaker-1857184514-p.xhtml?publisherID=TEST",
+            "shortDescription": "The adidas Grand Court Sneaker takes it back to the '70s classics and moves this style into the future. Great for an everyday look, this sneaker features the signature 3-Stripes that flash along the sides. The plush midsole cushioning in this sneaker..."
+        },
+        {
+            "brand": "Clarks",
+            "id": 1826979406,
+            "image": {
+                "caption": "Clarks Women's   Ashland Pine Ankle Bootie",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183958__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183958__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857183958__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826979406?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/clarks-womens-ashland-pine-ankle-bootie-1857183958-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.18,
+            "maximumCashbackString": "$1.18",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.176,
+            "maximumPrice": 39.2,
+            "maximumPriceString": "$39.20",
+            "minimumPrice": 35.96,
+            "minimumPriceString": "$35.96",
+            "name": "Clarks Women's   Ashland Pine Ankle Bootie",
+            "referralUrl": "https://www.shop.com/clarks-womens-ashland-pine-ankle-bootie-1857183958-p.xhtml?publisherID=TEST",
+            "shortDescription": "Step out in style wearing the Clarks Ashland Pine Ankle Bootie. This leather boot will look great with leggings or jeans, and features an OrthoLite footbed that reduces impact and offers ample cushioning. Part of the Clarks Collection OrthoLite..."
+        },
+        {
+            "brand": "Easy Street",
+            "id": 1826973973,
+            "image": {
+                "caption": "Easy Street Women's   Quinn Plus Plus Knee High Boot",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178525__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178525__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857178525__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826973973?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/easy-street-womens-quinn-plus-plus-knee-high-boot-1857178525-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.02,
+            "maximumCashbackString": "$2.02",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.0238,
+            "maximumPrice": 67.46,
+            "maximumPriceString": "$67.46",
+            "minimumPrice": 67.46,
+            "minimumPriceString": "$67.46",
+            "name": "Easy Street Women's   Quinn Plus Plus Knee High Boot",
+            "referralUrl": "https://www.shop.com/easy-street-womens-quinn-plus-plus-knee-high-boot-1857178525-p.xhtml?publisherID=TEST",
+            "shortDescription": "Designed to fit a wider calf, the Easy Street Quinn Plus Plus Knee High Boot features elastic goring at the topline for a comfortable fit. Extra wide calf boot Elastic goring at topline Full length side zipper Insole with foam padding Microsuede..."
+        },
+        {
+            "brand": "ASICS",
+            "id": 1826461267,
+            "image": {
+                "caption": "ASICS Men's   GEL-Venture 7 Trail Running Shoe",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665819__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665819__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665819__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826461267?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/asics-mens-gel-venture-7-trail-running-shoe-1856665819-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.59,
+            "maximumCashbackString": "$1.59",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.5927,
+            "maximumPrice": 53.09,
+            "maximumPriceString": "$53.09",
+            "minimumPrice": 48.71,
+            "minimumPriceString": "$48.71",
+            "name": "ASICS Men's   GEL-Venture 7 Trail Running Shoe",
+            "referralUrl": "https://www.shop.com/asics-mens-gel-venture-7-trail-running-shoe-1856665819-p.xhtml?publisherID=TEST",
+            "shortDescription": "Take on the toughest terrain in confidence with the men's ASICS GEL-VENTURE 7 Trail Running Shoe. Featuring GEL technology and an EVA midsole, this performance trail running shoe is made for athletes who love to run in the great outdoors. GEL..."
+        },
+        {
+            "brand": "Propet",
+            "id": 1826460155,
+            "image": {
+                "caption": "Propet Men's   Matthew Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664707__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664707__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664707__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460155?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/propet-mens-matthew-sneaker-1856664707-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.15,
+            "maximumCashbackString": "$3.15",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.1485,
+            "maximumPrice": 104.95,
+            "maximumPriceString": "$104.95",
+            "minimumPrice": 104.95,
+            "minimumPriceString": "$104.95",
+            "name": "Propet Men's   Matthew Sneaker",
+            "referralUrl": "https://www.shop.com/propet-mens-matthew-sneaker-1856664707-p.xhtml?publisherID=TEST",
+            "shortDescription": "Make sure you look stylish and stay comfortable with the Propet Matthew Sneaker. This lightweight sneaker features a Balance Bar multi-density EVA midsole that delivers stability and arch support, and a mesh upper that offers improved breathability...."
+        },
+        {
+            "brand": "adidas",
+            "id": 1826459860,
+            "image": {
+                "caption": "adidas Men's   Entrap Mid Basketball Shoe",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664412__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664412__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856664412__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826459860?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/adidas-mens-entrap-mid-basketball-shoe-1856664412-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.1,
+            "maximumCashbackString": "$2.10",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.0985,
+            "maximumPrice": 69.95,
+            "maximumPriceString": "$69.95",
+            "minimumPrice": 69.95,
+            "minimumPriceString": "$69.95",
+            "name": "adidas Men's   Entrap Mid Basketball Shoe",
+            "referralUrl": "https://www.shop.com/adidas-mens-entrap-mid-basketball-shoe-1856664412-p.xhtml?publisherID=TEST",
+            "shortDescription": "Slip on the adidas Entrap Mid Basketball Shoe and see where the day takes you. This comfortable high top combines retro high top style with court performance. Perforated detail upper Lace up Classic adidas 3-stripe detail."
+        },
+        {
+            "brand": "Vionic",
+            "id": 1826460683,
+            "image": {
+                "caption": "Vionic Women's   Remi Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665235__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665235__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665235__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460683?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/vionic-womens-remi-sneaker-1856665235-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 3.6,
+            "maximumCashbackString": "$3.60",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 3.5985,
+            "maximumPrice": 119.95,
+            "maximumPriceString": "$119.95",
+            "minimumPrice": 55.99,
+            "minimumPriceString": "$55.99",
+            "name": "Vionic Women's   Remi Sneaker",
+            "referralUrl": "https://www.shop.com/vionic-womens-remi-sneaker-1856665235-p.xhtml?publisherID=TEST",
+            "shortDescription": "Experience comfort in every step with the Vionic Remi Sneaker. Designed with Vionic and Orthaheel technologies, this casual sneaker sports a supportive biomechanical footbed, stabilizing deep heel cup and firm yet flexible midsole. The built-in..."
+        },
+        {
+            "brand": "adidas",
+            "id": 1826977125,
+            "image": {
+                "caption": "adidas Men's   Ownthegame Basketball Shoe",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181677__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181677__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857181677__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826977125?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/adidas-mens-ownthegame-basketball-shoe-1857181677-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 1.47,
+            "maximumCashbackString": "$1.47",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 1.4703,
+            "maximumPrice": 49.01,
+            "maximumPriceString": "$49.01",
+            "minimumPrice": 49.01,
+            "minimumPriceString": "$49.01",
+            "name": "adidas Men's   Ownthegame Basketball Shoe",
+            "referralUrl": "https://www.shop.com/adidas-mens-ownthegame-basketball-shoe-1857181677-p.xhtml?publisherID=TEST",
+            "shortDescription": "Work the lane and slash through traffic in the adidas Ownthegame Basketball Shoe. With superior Cloudfoam cushioning in the midsole and a footbed that delivers energy and comfort during clutch moves, you will in fact, own the game. Cloudfoam midsole..."
+        },
+        {
+            "brand": "Aerosoles",
+            "id": 1826459388,
+            "image": {
+                "caption": "Aerosoles Women's   Patience Knee High Boots",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663940__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663940__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856663940__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826459388?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/aerosoles-womens-patience-knee-high-boots-1856663940-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.2,
+            "maximumCashbackString": "$2.20",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.2038,
+            "maximumPrice": 73.46,
+            "maximumPriceString": "$73.46",
+            "minimumPrice": 73.46,
+            "minimumPriceString": "$73.46",
+            "name": "Aerosoles Women's   Patience Knee High Boots",
+            "referralUrl": "https://www.shop.com/aerosoles-womens-patience-knee-high-boots-1856663940-p.xhtml?publisherID=TEST",
+            "shortDescription": "The Aerosoles Patience Knee High Boots flaunts an eye-catching statement buckle and a stacked heel that's extra-sturdy, making this boot a must-have addition to your wardrobe. This lovely tall boot features Extended Calf technology to conform to your..."
+        },
+        {
+            "brand": "Old Friend",
+            "id": 1826972501,
+            "image": {
+                "caption": "Old Friend Women's   Loafer Moc",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177053__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177053__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1857177053__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826972501?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/old-friend-womens-loafer-moc-1857177053-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 2.1,
+            "maximumCashbackString": "$2.10",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 2.0985,
+            "maximumPrice": 69.95,
+            "maximumPriceString": "$69.95",
+            "minimumPrice": 69.95,
+            "minimumPriceString": "$69.95",
+            "name": "Old Friend Women's   Loafer Moc",
+            "referralUrl": "https://www.shop.com/old-friend-womens-loafer-moc-1857177053-p.xhtml?publisherID=TEST",
+            "shortDescription": "Features a built up and tapered toe to be more like a shoe which allows for wiggle room. This moccasin comes with a plush, dense sheepskin. Also features hand stitched, cinch adjustable tie. The midsole is cushioned and the insole is constructed of..."
+        },
+        {
+            "brand": "Propet",
+            "id": 1826460662,
+            "image": {
+                "caption": "Propet Women's   Maren Sneaker",
+                "sizes": [
+                    {
+                        "height": 200,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665214__200x200__.jpg",
+                        "width": 200
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665214__400x400__.jpg",
+                        "width": 400
+                    },
+                    {
+                        "height": 600,
+                        "url": "https://img.shop.com/Image/280000/283500/283519/products/1856665214__600x600__.jpg",
+                        "width": 600
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "href": "/AffiliatePublisherNetwork/v2/products/1826460662?publisherId=TEST&locale=en_US",
+                    "rel": "details",
+                    "type": "application/json"
+                },
+                {
+                    "href": "https://www.shop.com/propet-womens-maren-sneaker-1856665214-p.xhtml?publisherID=TEST",
+                    "rel": "referralPage",
+                    "type": "text/html"
+                }
+            ],
+            "maximumBv": 0.0,
+            "maximumCashback": 0.94,
+            "maximumCashbackString": "$0.94",
+            "maximumCiPoints": 0.0,
+            "maximumIbv": 0.9438,
+            "maximumPrice": 31.46,
+            "maximumPriceString": "$31.46",
+            "minimumPrice": 31.46,
+            "minimumPriceString": "$31.46",
+            "name": "Propet Women's   Maren Sneaker",
+            "referralUrl": "https://www.shop.com/propet-womens-maren-sneaker-1856665214-p.xhtml?publisherID=TEST",
+            "shortDescription": "With mixed materials and sporty-chic styling, Propet's Maren Sneaker is the perfect pick for casual activities. Featuring an elastic lacing system with an adjustable toggle, you'll be able to slip into this comfy sneaker with ease. Stretch neoprene..."
+        }
+    ],
+    "sellers": [
+        {
+            "id": "112122",
+            "name": "PairMySole",
+            "productCount": 18138
+        },
+        {
+            "id": "121120",
+            "name": "BHFO",
+            "productCount": 10700
+        },
+        {
+            "id": "104162",
+            "name": "UnbeatableSale",
+            "productCount": 8390
+        },
+        {
+            "id": "130675",
+            "name": "SHOES.COM",
+            "productCount": 6253
+        },
+        {
+            "id": "116200",
+            "name": "Soled",
+            "productCount": 3630
+        },
+        {
+            "id": "109115",
+            "name": "RuzeShoes",
+            "productCount": 2430
+        },
+        {
+            "id": "129357",
+            "name": "KixRx",
+            "productCount": 2399
+        },
+        {
+            "id": "112119",
+            "name": "Sophia's Style",
+            "productCount": 1368
+        },
+        {
+            "id": "126498",
+            "name": "Lehigh Outfitters",
+            "productCount": 921
+        },
+        {
+            "id": "125496",
+            "name": "BOBBI + BRICKA",
+            "productCount": 416
+        },
+        {
+            "id": "102234",
+            "name": "BikeSomeWhere.com",
+            "productCount": 320
+        },
+        {
+            "id": "102654",
+            "name": "BlockBuster Costumes",
+            "productCount": 193
+        },
+        {
+            "id": "127857",
+            "name": "Belt Outlet",
+            "productCount": 94
+        },
+        {
+            "id": "102220",
+            "name": "Luxury Divas",
+            "productCount": 80
+        },
+        {
+            "id": "105090",
+            "name": "Tags Weekly",
+            "productCount": 73
+        },
+        {
+            "id": "129403",
+            "name": "SavingsEmpire",
+            "productCount": 68
+        },
+        {
+            "id": "111258",
+            "name": "Garner Supply",
+            "productCount": 62
+        },
+        {
+            "id": "116476",
+            "name": "Dollar Days",
+            "productCount": 62
+        },
+        {
+            "id": "112135",
+            "name": "Sim Supply",
+            "productCount": 58
+        },
+        {
+            "id": "109164",
+            "name": "My Goods",
+            "productCount": 51
+        }
+    ]
+}
