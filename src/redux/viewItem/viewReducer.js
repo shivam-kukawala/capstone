@@ -17,7 +17,8 @@ const viewReducer = (state = initialState, action) => {
             name: action.payload.name,
             oldPrice: action.payload.oldPrice,
             newPrice: action.payload.newPrice,
-            qty: action.payload.qty
+            qty: action.payload.qty,
+            image: action.payload.image
         }
         default: return state
     }

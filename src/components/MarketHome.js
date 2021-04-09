@@ -12,12 +12,12 @@ function MarketHome() {
         <Container>
             <LeftDiv className='top-left'>
                 <Logo size="36px" color="#5B6064">
-                    GRO
+                    EXCLUSIVE
                     <ExtraBoldFont size="36px" color="#5B6064">MRKT</ExtraBoldFont>
                 </Logo>
-                <InputDiv>
+                {/* <InputDiv>
                     <Input placeholder="Search" /><Search>Search</Search>
-                </InputDiv>
+                </InputDiv> */}
                 <ExtraBoldFont size="46px" color="#5B6064">Categories</ExtraBoldFont>
             </LeftDiv>
             <Cover className='cover' />

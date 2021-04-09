@@ -1,7 +1,14 @@
 .item-title{
     grid-column: 1/12;
-    grid-row: 1/2;
+    /* grid-row: 1/2; */
     font-size: 20px;
+}
+.item-title-sel{
+        /* grid-row: 1/2; */
+    grid-column: 1/12;
+    padding-right: 40%;
+    font-size: 20px;
+
 }
 .item-price{
     grid-column: 4/6;
@@ -14,8 +21,8 @@
 .item-price .iyCiNZ , .item-price-tag .iyCiNZ { font-size: 24px;}
 .item-price .hZwkRS , .item-price-tag .hZwkRS { font-size: 28px;}
 .item-image{
-    /* grid-column: 1/4; */
-    grid-row: 3/9;
+    grid-column: 1/4;
+    /* grid-row: 3/9; */
 
 }
 .landing-area-text{
@@ -70,7 +77,7 @@
     text-align: right;
     grid-column: 2/3;
     grid-row: 1/2;
-    padding: 12px;
+    padding: 5px;
     background: #fff;
     width: max-content;
     justify-self: end;

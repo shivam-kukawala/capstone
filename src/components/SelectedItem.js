@@ -43,7 +43,9 @@ const Div = styled.div`
     gap:18px;
 `;
 
-function SelectedItem({ name, oldPrice, newPrice, qty, addToCart, cartItems }) {
+function SelectedItem({ name, oldPrice, newPrice, qty, addToCart, cartItems, image }) {
+    console.log(image);
+    console.log(name);
     const [itemQty, updateQty] = useState(1)
 
     const checkAndAddToCart = cartObj => {
@@ -58,16 +60,16 @@ function SelectedItem({ name, oldPrice, newPrice, qty, addToCart, cartItems }) {
 
     return (
         <Div>
-            <ExtraBoldFont color="#121212" className="item-title">{name}</ExtraBoldFont>
+            <ExtraBoldFont color="#121212" className="item-title-sel">{name}</ExtraBoldFont>
             <BoldFont color="#040404" className='item-discount-label'> {Math.round(100 - ((newPrice * 100) / oldPrice))} % OFF</BoldFont>
             <div className="item-price-tag">
                 <RegularFont size="26px" color="#121212"><del>$ {oldPrice}</del></RegularFont>
                 <BoldFont color="#121212" size="36px">$ {newPrice}</BoldFont>
                 <BoldFont color="#121212" size="20px"> {qty}</BoldFont>
             </div>
-            <img src={require(`../images/${name.toLowerCase()}.svg`).default} alt="item" className="item-image-add" width="150px" />
+            <img src={image} alt="item" className="item-image-add" width="150px" />
             <SelectQtyDiv>
-                <ExtraBoldFont className="qty-item">Qty in {qty}</ExtraBoldFont>
+                {/* <ExtraBoldFont className="qty-item">Qty in {qty}</ExtraBoldFont> */}
                 <Button className="sub-qty-item" radius="50px 0 0 50px" onClick={() => updateQty(prevCount => prevCount - 1)} disabled={itemQty === 1 ? true : false}>
                     <ExtraBoldFont color="#fff" >-</ExtraBoldFont>
                 </Button>
@@ -99,6 +101,7 @@ const mapStateToProps = state => {
         oldPrice: state.view.oldPrice,
         newPrice: state.view.newPrice,
         qty: state.view.qty,
+        image: state.view.image,
         cartItems: state.cart.items
     }
 }

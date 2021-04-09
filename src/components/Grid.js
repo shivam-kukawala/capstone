@@ -32,6 +32,8 @@ const Container = styled.div`
     }
 `;
 
+
+
 function Grid(props) {
 
     let GroceryItems = []
