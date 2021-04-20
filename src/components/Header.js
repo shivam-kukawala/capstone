@@ -6,6 +6,10 @@ import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import avatar from "../images/avatar.png"
 import basket from "../images/basket.svg";
+import login from './login/Login';
+
+console.log(login.props);
+
 
 const Div = styled.div`
     display:grid;
@@ -75,7 +79,7 @@ function Header({ items }) {
                 <BoldFont>Shivam Kukawala</BoldFont>
             </User>
             <Basket>
-                <Link to="/" className="link">
+                <Link to="/cart" className="link">
                     <img src={basket} alt="basket" />
                     <CartItem>
                         <ExtraBoldFont size="18px"></ExtraBoldFont>

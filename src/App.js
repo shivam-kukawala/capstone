@@ -1,17 +1,13 @@
-import logo from './logo.svg';
-import Header from './components/Header';
-import MarketHome from './components/MarketHome';
 import { Provider } from 'react-redux';
 import store from './redux/store'
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import React, { useEffect, useState } from "react";
-import { useLocation } from 'react-router-dom';
+import Cart from './components/Cart/Cart' 
 import fire from './components/login/fire';
 import Login from './components/login/Login';
 import Hero from './components/login/Hero';
 import './components/login/App.css';
-
 
 const App = () =>{
 
@@ -131,7 +127,6 @@ const App = () =>{
       )}
       <Router >
           <Switch>
-          {/* <MarketHome/> */}
           </Switch>
         </Router>
     </div>
@@ -142,30 +137,3 @@ const App = () =>{
 
 
 export default App;
-
-
-
-  // useEffect(() => {
-  //   dumpDatabase();
-  // },
-  //  []);
-
-  // const dumpDatabase = () => {
-    
-  //   fetch('https://api2.shop.com/AffiliatePublisherNetwork/v2/products?publisherId=TEST&locale=en_US&site=shop&shipCountry=US&perPage=1000&categoryId=1-32877&onlyMaProducts=false&api_key=b97ff94fd1dc4b6b9bbfb689c69e83d0', { method: 'GET' })
-  //   .then(response =>  response.json())
-  //   .then(data => {
-  //     console.log(data);
-  //         // Creating the blob file and its url
-  //         const blob = new Blob([JSON.stringify(data, null, 2)], {type : 'application/json'}); 
-  //         let url = window.URL.createObjectURL(blob);
-  //         console.log(url)
-
-  //         // Creating the hyperlink and auto click it to start the download
-  //         let link = document.createElement('a');
-  //         link.href = url;
-  //         console.log(link.href);
-  //         link.download = 'dump' + '.json';
-  //         link.click();         
-  //   });
-  // } 
