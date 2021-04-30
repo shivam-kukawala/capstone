@@ -75,8 +75,8 @@ function Header({ items }) {
     return (
         <Div>
             <User>
-            <Avatar src={avatar} alt="dp" />
-                <BoldFont>Shivam Kukawala</BoldFont>
+            {/* <Avatar src={avatar} alt="dp" /> */}
+                {/* <BoldFont>Shivam Kukawala</BoldFont> */}
             </User>
             <Basket>
                 <Link to="/cart" className="link">

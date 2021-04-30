@@ -20,7 +20,7 @@ function Cart({ items }) {
                     <BoldFont className="big-font">Shopping Basket</BoldFont>
                     <ItemList>
                         {
-                            items.map((item, index) => <Items key={index} name={item.name} itemQty={item.itemQty} qty={item.qty} totalPrice={item.totalCostForItem} />)
+                            items.map((item, index) => <Items key={index} name={item.name} itemQty={item.itemQty} totalPrice={item.totalCostForItem.toFixed(2)} />)
                         }
                     </ItemList>
                     <div className="bottom-bar">
@@ -33,7 +33,7 @@ function Cart({ items }) {
                         <Total className='total'>
                             <BoldFont className="big-font">Grand Total : </BoldFont>
                             <div className="total-price">$ {
-                                items.reduce((a, b) => a + b['totalCostForItem'], 0)
+                                items.reduce((a, b) => a + b['totalCostForItem'], 0).toFixed(2)
                             }</div>
                         </Total>
                     </div>
@@ -42,7 +42,7 @@ function Cart({ items }) {
                     <BoldFont className="big-font" color="#fff">Card Detials</BoldFont>
                     {/* <img className='card' alt='card' src={require("../../images/card.svg")} /> */}
                     <div className="input-grid">
-                        <Input placeholder="Name on Card" className="name" />
+                        <Input placeholder="Name on Card" className="name" required="true" />
                         <Input placeholder="Card Number" className="number" />
                         <Input placeholder="MM" className="mm" />
                         <Input placeholder="YY" className="yy" />

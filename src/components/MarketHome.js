@@ -31,7 +31,6 @@ function MarketHome() {
                     <ExtraBoldFont className="landing-area-text">
                         Discover amazing fresh supplies and bring the store to your door.
                     </ExtraBoldFont>
-                    <img src={Landing} alt="landing" className="landing-area-image" />
                 </LandingArea>
             </TopRightDiv>
 

@@ -65,7 +65,7 @@ function SelectedItem({ name, oldPrice, newPrice, qty, addToCart, cartItems, ima
             <div className="item-price-tag">
                 <RegularFont size="26px" color="#121212"><del>$ {oldPrice}</del></RegularFont>
                 <BoldFont color="#121212" size="36px">$ {newPrice}</BoldFont>
-                <BoldFont color="#121212" size="20px"> {qty}</BoldFont>
+                {/* <BoldFont color="#121212" size="20px"> {qty}</BoldFont> */}
             </div>
             <img src={image} alt="item" className="item-image-add" width="150px" />
             <SelectQtyDiv>
